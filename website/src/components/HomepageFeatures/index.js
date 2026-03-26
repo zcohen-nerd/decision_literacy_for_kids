@@ -1,7 +1,36 @@
 import Link from '@docusaurus/Link';
-import useBaseUrl from '@docusaurus/useBaseUrl';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+
+const literacyProjects = [
+  {
+    title: '🧠 Decision Literacy',
+    href: 'https://zcohen-nerd.github.io/decision_literacy_for_kids/',
+    description:
+      'How to think clearly, evaluate choices, and understand consequences.',
+  },
+  {
+    title: '💻 Computer Literacy',
+    href: 'https://zcohen-nerd.github.io/computer_literacy_for_kids/',
+    description: 'How computers work and how to use them responsibly.',
+  },
+  {
+    title: '📰 Media Literacy',
+    href: 'https://zcohen-nerd.github.io/media_literacy_for_kids/',
+    description: 'How to evaluate information and recognize bias.',
+  },
+  {
+    title: '💰 Financial Literacy',
+    href: 'https://zcohen-nerd.github.io/financial_literacy_for_kids/',
+    description: 'How money works and how to make responsible financial decisions.',
+  },
+  {
+    title: '🏛 Civic Literacy',
+    href: 'https://zcohen-nerd.github.io/civic_literacy_for_kids/',
+    description:
+      'How societies organize themselves and how citizens shape their communities.',
+  },
+];
 
 const features = [
   {
@@ -84,7 +113,7 @@ function RoadmapCard({title, weeks, description}) {
 }
 
 export default function HomepageFeatures() {
-  const roadmapImageUrl = useBaseUrl('/img/roadmap.png');
+  const literacyHubUrl = 'https://zcohen-nerd.github.io/literacy_for_kids/';
 
   return (
     <div className={styles.pageSections}>
@@ -97,6 +126,39 @@ export default function HomepageFeatures() {
             outcomes. The lessons push students to analyze, evaluate, and create as they
             move through the course.
           </p>
+        </div>
+      </section>
+
+      <section className={styles.sectionAlt}>
+        <div className="container">
+          <Heading as="h2">Part of the Literacy for Kids Project</Heading>
+          <p className={styles.sectionLead}>
+            This curriculum is part of Literacy for Kids, a collection of
+            open-source curricula designed to help children ages 8–12
+            understand the systems that shape the modern world.
+          </p>
+          <p className={styles.sectionLead}>
+            Each curriculum focuses on a different foundational life skill.
+            You can explore the full curriculum collection here:
+          </p>
+          <div className={styles.ctaButtons}>
+            <Link className="button button--primary button--lg" to={literacyHubUrl}>
+              ➜ Literacy for Kids Hub
+            </Link>
+          </div>
+          <Heading as="h3" className={styles.subsectionHeading}>
+            Explore the Other Literacies
+          </Heading>
+          <div className={styles.roadmapGrid}>
+            {literacyProjects.map((project) => (
+              <article key={project.title} className={styles.card}>
+                <Heading as="h4">
+                  <Link to={project.href}>{project.title}</Link>
+                </Heading>
+                <p>{project.description}</p>
+              </article>
+            ))}
+          </div>
         </div>
       </section>
 
