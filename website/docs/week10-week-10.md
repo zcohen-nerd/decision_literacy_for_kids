@@ -58,7 +58,7 @@ The hardest part of signal vs. noise is that noise often FEELS like signal. It's
 | | Ages 8–9 | Ages 10–12 |
 |---|---|---|
 | **Beach Decision** | Focus on the sorting activity with physical cards or objects. Skip the more abstract diminishing returns chart. | Full activity plus discussion of information overload in social media and news contexts. |
-| **Information diet** | Emphasise the "Does this change what I do?" test with concrete examples. | Discuss how algorithms exploit our inability to distinguish signal from noise. |
+| **Information diet** | Emphasize the "Does this change what I do?" test with concrete examples. | Discuss how algorithms exploit our inability to distinguish signal from noise. |
 | **Diminishing returns** | Keep intuitive — "the first scoop of ice cream is the best." | Explore diminishing returns mathematically. Have them graph study time vs. test improvement. |
 
 ---
