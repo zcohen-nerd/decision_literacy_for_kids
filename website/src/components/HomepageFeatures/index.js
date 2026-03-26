@@ -1,36 +1,7 @@
 import Link from '@docusaurus/Link';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
-
-const literacyProjects = [
-  {
-    title: '🧠 Decision Literacy',
-    href: 'https://zcohen-nerd.github.io/decision_literacy_for_kids/',
-    description:
-      'How to think clearly, evaluate choices, and understand consequences.',
-  },
-  {
-    title: '💻 Computer Literacy',
-    href: 'https://zcohen-nerd.github.io/computer_literacy_for_kids/',
-    description: 'How computers work and how to use them responsibly.',
-  },
-  {
-    title: '📰 Media Literacy',
-    href: 'https://zcohen-nerd.github.io/media_literacy_for_kids/',
-    description: 'How to evaluate information and recognize bias.',
-  },
-  {
-    title: '💰 Financial Literacy',
-    href: 'https://zcohen-nerd.github.io/financial_literacy_for_kids/',
-    description: 'How money works and how to make responsible financial decisions.',
-  },
-  {
-    title: '🏛 Civic Literacy',
-    href: 'https://zcohen-nerd.github.io/civic_literacy_for_kids/',
-    description:
-      'How societies organize themselves and how citizens shape their communities.',
-  },
-];
+import {literacyHubUrl, literacyProjects} from '@site/src/data/literacyLinks';
 
 const features = [
   {
@@ -113,8 +84,6 @@ function RoadmapCard({title, weeks, description}) {
 }
 
 export default function HomepageFeatures() {
-  const literacyHubUrl = 'https://zcohen-nerd.github.io/literacy_for_kids/';
-
   return (
     <div className={styles.pageSections}>
       <section className={styles.section}>

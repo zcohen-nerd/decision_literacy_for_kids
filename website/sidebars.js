@@ -1,5 +1,7 @@
 // @ts-check
 
+import {literacyHubUrl, literacyProjects} from './src/data/literacyLinks.js';
+
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   curriculumSidebar: [
@@ -76,33 +78,13 @@ const sidebars = {
         {
           type: 'link',
           label: 'Literacy for Kids Hub',
-          href: 'https://zcohen-nerd.github.io/literacy_for_kids/',
+          href: literacyHubUrl,
         },
-        {
+        ...literacyProjects.map(({label, href}) => ({
           type: 'link',
-          label: 'Decision Literacy',
-          href: 'https://zcohen-nerd.github.io/decision_literacy_for_kids/',
-        },
-        {
-          type: 'link',
-          label: 'Computer Literacy',
-          href: 'https://zcohen-nerd.github.io/computer_literacy_for_kids/',
-        },
-        {
-          type: 'link',
-          label: 'Media Literacy',
-          href: 'https://zcohen-nerd.github.io/media_literacy_for_kids/',
-        },
-        {
-          type: 'link',
-          label: 'Financial Literacy',
-          href: 'https://zcohen-nerd.github.io/financial_literacy_for_kids/',
-        },
-        {
-          type: 'link',
-          label: 'Civic Literacy',
-          href: 'https://zcohen-nerd.github.io/civic_literacy_for_kids/',
-        },
+          label,
+          href,
+        })),
       ],
     },
   ],
