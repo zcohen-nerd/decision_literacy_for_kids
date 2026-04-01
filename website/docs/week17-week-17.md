@@ -10,7 +10,7 @@ description: "Run your protocol as an experiment, collect honest data, and check
 
 Your protocol from Week 16 is a **hypothesis**: "If I follow this plan, my friction point will improve." This week we find out if the hypothesis holds up.
 
-Good scientists don't just "try things and hope." They **measure, record, and analyse.** That's exactly what we'll do. The data will tell us what's working, what isn't, and what needs to change.
+Good scientists don't just "try things and hope." They **measure, record, and analyze.** That's exactly what we'll do. The data will tell us what's working, what isn't, and what needs to change.
 
 ---
 
@@ -42,7 +42,7 @@ Good scientists don't just "try things and hope." They **measure, record, and an
 :::info Before You Begin
 - Review the student's protocol from Week 16
 - Check their tracking data from the past week
-- Prepare graph paper or a simple chart template for data visualisation
+- Prepare graph paper or a simple chart template for data visualization
 - Have the student's baseline data from Week 15 ready for comparison
 - Be prepared for two scenarios: the protocol working well or struggling
 :::
@@ -51,18 +51,33 @@ Good scientists don't just "try things and hope." They **measure, record, and an
 The most important skill this week: **honest self-reporting.** If the student fudges the data to look good, the whole project loses value. Create a safe environment where "my protocol failed 4 out of 5 days" is celebrated as honest, useful data — not criticised as failure.
 :::
 
-## Age Differentiation
+## For Younger Learners (Ages 8–9)
 
-:::info For Ages 8–9
-- Use simple daily tracking: checkmarks, smiley faces, or colour-coded stickers rather than detailed numbers.
-- Keep the data review visual and concrete — draw a simple bar chart together instead of discussing percentages.
-- The mid-experiment check-in may need more facilitator involvement to interpret patterns.
+:::info Adapting This Week
+**Simplest version of the concept:** "You made a plan last week. Now you're trying it out for real — and writing down what actually happens, honestly."
+
+**What to shorten or skip:**
+- Focus on simple, honest tracking: did I follow my protocol today? What happened?
+- Skip formal data analysis and sample size discussion. Use: "Let's look at your check marks. How's it going?"
+- Skip the "data vs. feelings" lecture. Keep it concrete: "Your brain might say 'it's going fine' even when the data says otherwise. That's why we write it down."
+- Keep sessions to 20 minutes.
+
+**Adapting the activities:**
+- Use the index card from Week 16. Each day, the learner adds a check (✓) or X.
+- Mid-week check-in: sit down together and count. "How many days did you follow the protocol? How many didn't? What happened on the X days?"
+- If the data is messy or the protocol isn't working, that's fine — it's useful information: "Now we know what to change."
+- The facilitator helps the learner be honest without feeling judged.
+
+**Journal alternative:** "I followed my protocol ___ out of ___ days. What happened: ___. What surprised me: ___." Spoken is fine.
+
+**What success looks like:** The learner tracked their protocol honestly for several days and can say whether it's working, not working, or unclear.
 :::
 
 :::info For Ages 10–12
-- Encourage detailed tracking with numbers and percentages. Compare to baseline quantitatively.
-- Have them calculate their own success rate and graph the trend over time.
-- Push toward independent analysis: "What does the data tell you?" before offering your interpretation.
+- Full data collection with a tracking sheet: date, trigger occurred (Y/N), protocol followed (Y/N), outcome rating (1–10), notes.
+- Mid-experiment analysis: graph or chart the data. Look for patterns.
+- Discuss data integrity: "Why is it important to record bad days honestly?"
+- Begin thinking about what they'd change for Protocol v2.0.
 :::
 
 ---
@@ -139,7 +154,7 @@ Discuss: "Is this system easy enough that you'll actually do it every day? If no
 #### Learning Goal
 By the end of this session, the student can:
 
-- analyse their tracking data to identify patterns
+- analyze their tracking data to identify patterns
 - distinguish between a protocol failure and bad luck
 - propose specific improvements based on evidence
 
@@ -205,7 +220,7 @@ Make any quick fixes and continue testing for the remaining days.
 
 ---
 
-## Independent Session
+## Independent Practice
 
 ### Goal
 
@@ -216,6 +231,8 @@ Continue running the protocol with improved tracking, and prepare data for the f
 **1. Continue the Experiment**
 
 Run the (possibly updated) protocol for the remainder of the week. Track data using the refined system.
+
+**Minimum viable version (younger learners):** Keep tracking your protocol on the index card for a few more days. At mid-week, count your checks and X's with a grown-up. Answer: "Is my plan working? What's the hardest part?" If you want to change something about the plan, that's great — write the new version on a fresh card.
 
 **2. Start the Summary**
 
@@ -236,3 +253,40 @@ Begin drafting the experiment summary. You'll present this in Week 18:
 - Is there a difference between a protocol that "failed" and a protocol that taught you something?
 - What would happen if you skipped the data collection and just relied on your gut feeling about how it's going?
 - Professional scientists run experiments for months or years. Do you think 1-2 weeks is enough to really know if your protocol works?
+
+---
+
+## Quick Mastery Check
+
+After this week, check whether the learner can:
+
+1. **Report honestly:** "How many days did you follow your protocol? How many days didn't you?" (Looking for: honest numbers, not vague claims like 'pretty well.')
+2. **Identify a pattern:** "What happened on the days you followed the protocol vs. the days you didn't?" (Looking for: any observation about the difference — even "I'm not sure yet" is fine if they explain why.)
+3. **Stay curious, not defeated:** "If your protocol didn't work perfectly, what might you change?" (Looking for: a specific tweak — not giving up, and not pretending it worked when it didn't.)
+
+If the learner has honest data and at least one idea for improvement, they're ready for the iteration and presentation in Week 18.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+After reviewing the mid-experiment data, ask:
+
+> "Was it hard to be honest about the days your protocol didn't work? What made it hard?"
+
+> "There's a pull to make ourselves look good — to round up, to say 'close enough,' to skip recording the bad days. That pull is natural. But the whole point of data is to tell the truth that your feelings might not. Honest data is a gift to your future self."
+
+**This week's takeaway:** Being honest with your data — even when it's not flattering — is one of the bravest things a thinker can do. The data isn't judging you. It's just information.
+:::
+
+---
+
+## Spiral Review
+
+:::tip Connecting to Earlier Weeks
+- **From Week 10:** "Your tracking data is signal. Your 'gut feeling' about how it went is potentially noise. This is exactly why you write it down."
+- **From Week 4:** "Watch out for hindsight bias. If your protocol worked, don't say 'I knew it would.' If it failed, don't say 'I knew it wouldn't work.' Check what you actually predicted."
+- **From Week 3:** "How well-calibrated was your confidence? Before testing, did you predict how likely the protocol was to work? Compare that prediction to the data."
+- **From Week 9:** "You can calculate a rough success rate from your data. If you followed the protocol 4 out of 5 days, your compliance rate is 80%. Is that good enough, or does it need to be higher to solve the friction point?"
+:::

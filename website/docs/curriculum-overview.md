@@ -35,7 +35,7 @@ Lessons are intentionally **hands-on, curiosity-driven, and flexible**, allowing
 
 ### Target Audience
 Young learners roughly ages 8–12.
-Basic reading ability is helpful, but adult guidance is expected. The concepts scale naturally — younger learners engage through games and intuition, while older learners dig into the reasoning and math.
+Basic reading ability is helpful, but adult guidance is expected. The concepts scale naturally — younger learners engage through games and intuition, while older learners dig into the reasoning and math. Every weekly lesson includes a dedicated 'For Younger Learners (Ages 8–9)' section with concrete guidance on simplifying activities, reducing writing burden, and adapting the session length.
 
 ### Weekly Structure
 Each week contains:
@@ -52,7 +52,7 @@ Beginning **Week 1**, students maintain a **Decision Journal** — a running rec
 
 The journal is the single most important artifact. It teaches students to write down their thinking *before* seeing the result, which prevents hindsight bias and builds genuine self-awareness over time.
 
-Each week includes a specific journal prompt that builds on previous entries.
+Each week includes a specific journal prompt that builds on previous entries. For younger learners, journal entries can be oral (dictated to a facilitator), drawn, or completed using the sentence starters provided in each lesson. The journal should never feel like a writing assignment — it's a thinking tool.
 
 ### Materials
 
@@ -100,8 +100,20 @@ If these signals are absent after several weeks, revisit earlier concepts throug
 
 The curriculum works across the full 8–12 range, but emphasis shifts:
 
-- **Ages 8–9:** Lean heavily on the games and physical activities. Keep math light — use "more likely / less likely" language before introducing numbers. Expect shorter journal entries and provide sentence starters. The guided sessions may need to be shorter (20 minutes) with more movement breaks.
+- **Ages 8–9:** Lean heavily on the games and physical activities.
+  - Keep math light — use "more likely / less likely" language before introducing numbers.
+  - Expect shorter journal entries and provide sentence starters.
+  - The guided sessions may need to be shorter (20 minutes) with more movement breaks.
+  - Each weekly lesson page includes a clearly marked 'For Younger Learners' section with the simplest version of the concept, what to skip or shorten, sentence starters for journal work, and what success looks like for that age group.
+  - Oral responses, drawing, and sorting activities are always acceptable alternatives to writing.
 - **Ages 10–12:** Push the quantitative reasoning further. These learners can handle percentages, simple expected value calculations, and more abstract "what if" scenarios. Encourage longer journal reflections and independent research during the practice sessions.
+
+Every lesson also includes a **Quick Mastery Check** — a brief formative assessment that helps facilitators gauge whether the core concept landed. These take under two minutes and require no special preparation. Lessons that involve group activities include a **solo or small-group fallback** so that a parent working with one child, or a small homeschool group, can still complete the lesson meaningfully.
+
+Additionally, every weekly lesson page features:
+
+- **Pause and Notice** — a short values-and-feelings reflection tied to that week's concept
+- **Spiral Review** — brief connections back to earlier weeks so concepts reinforce over time
 
 See the [Introduction](./intro) page for the full age-adaptation guide.
 
@@ -209,12 +221,17 @@ Each week below links to a detailed lesson page containing learning objectives, 
 
 ## Advanced Topics (Optional Extension)
 
-For learners who want to go further, two bonus weeks introduce more advanced decision-making tools.
+For learners who want to go further, two bonus weeks introduce more advanced decision-making tools. Each extension includes clear readiness guidance — which core weeks should feel solid first, and what type of learner benefits most.
 
 | Week | Theme | Focus Highlights |
 |---|---|---|
 | [Extension 1](./week-extension-1) | 📐 Bayesian Updating | How new evidence should change your beliefs — and by how much |
 | [Extension 2](./week-extension-2) | 🌳 Decision Trees | Mapping complex, multi-step decisions with branching paths and probabilities |
+
+:::info Extension Week Readiness
+- **Extension 1 (Bayesian Updating):** Best attempted after the learner is comfortable with confidence levels (Week 3) and expected value (Week 9). Recommended for ages 9+ or advanced younger learners. The learner should be able to assign and update percentage-based confidence ratings before starting.
+- **Extension 2 (Decision Trees):** Best attempted after the learner has completed expected value (Week 9) and reversible vs. irreversible (Week 11). Recommended for ages 10+ or advanced 9-year-olds. The learner should be comfortable with simple multiplication and the concept of branching outcomes.
+:::
 
 ---
 
@@ -272,7 +289,7 @@ Not every independent practice session is fully solo. Some weeks work best with 
 - **Weeks 1–4 (Phase 1):** Younger learners (8–9) may need help setting up their journal and understanding the prompts. By Week 4, most learners should be able to do the practice session independently.
 - **Weeks 5–8 (Phase 2):** The "bias hunting" activities in Weeks 5 and 8 work better with a partner or family member to discuss findings with. Weeks 6–7 can be done solo.
 - **Weeks 9–11 (Phase 3):** Week 9 (Expected Value) may need brief adult help with the math for younger learners. Weeks 10–11 are good solo sessions.
-- **Weeks 12–14 (Phase 4):** These weeks involve social dynamics, so the practice sessions benefit from a partner — a sibling, parent, or friend to play the game-theory scenarios with.
+- **Weeks 12–14 (Phase 4):** These weeks involve social dynamics, so the practice sessions benefit from a partner — a sibling, parent, or friend to play the game-theory scenarios with. If no second player is available, each lesson includes a solo or small-group fallback.
 - **Weeks 15–18 (Phase 5):** The Optimization Project is inherently independent, but a brief weekly check-in (5 minutes) helps keep the learner on track and thinking clearly about their protocol.
 
 ---

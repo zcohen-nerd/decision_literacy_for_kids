@@ -55,13 +55,31 @@ The payoff: spend less time on decisions that don't matter, and more time on the
 The message is NOT "some decisions don't matter." Everything affects your life experience. The message is: **the cost of getting a reversible decision wrong is low, so you should move quickly and course-correct later.** The cost of getting an irreversible decision wrong is high, so invest the thinking time up front.
 :::
 
-## Age Differentiation
+## For Younger Learners (Ages 8–9)
 
-| | Ages 8–9 | Ages 10–12 |
-|---|---|---|
-| **Door metaphor** | Focus on the two-way vs. one-way door metaphor. Keep sorting to clear-cut examples. | Explore the spectrum — decisions that start as two-way doors but become one-way over time. |
-| **Speed Dial** | Simplify to a 1–3 scale (fast / medium / slow). | Full Speed Dial (1–5). Discuss real consequences of irreversible decisions. |
-| **Classification** | Sort pre-made decision cards. | Have them create their own decision classification system. |
+:::info Adapting This Week
+**Simplest version of the concept:** "Some choices you can undo. Some you can't. Spend more time thinking about the ones you can't undo."
+
+**What to shorten or skip:**
+- Focus on the Two-Way Door / One-Way Door metaphor and the sorting activity. These are concrete and visual.
+- Use a simplified 1–3 speed scale: **Fast / Medium / Slow** instead of the full 1–5 Speed Dial.
+- Skip the Bezos Rule framing and the detailed Opportunity Cost section. Keep opportunity cost brief and intuitive: "When you pick one thing, you miss out on the other."
+- Keep sessions to 20 minutes.
+
+**Adapting the activities:**
+- For the door sorting, use only 5–6 of the clearest examples (what to eat for breakfast, what to post online, which library book, saying something mean).
+- Draw the two doors large on paper and let the learner physically place sticky notes on the correct door.
+
+**Journal alternative:** "A two-way door choice I made this week was ___. A one-way door choice was ___." Spoken or drawn is fine.
+
+**What success looks like:** The learner can look at a choice and say "I can undo this" or "I can't undo this" — and explain why that changes how much time to spend deciding.
+:::
+
+:::info For Ages 10–12
+- Explore the full spectrum — decisions that start as two-way doors but become one-way over time.
+- Full Speed Dial (1–5). Discuss real consequences of irreversible decisions.
+- Have them create their own decision classification system beyond the two-door model.
+:::
 
 ---
 
@@ -223,7 +241,7 @@ Common examples:
 - Going back and forth about which game to play until half the play time is gone
 - Stressing about which crayon color to use
 
-> "Every minute you spend agonising over a two-way door is a minute you could have spent ENJOYING whatever you chose. For small decisions, the cost of deciding slowly is often higher than the cost of deciding 'wrong.'"
+> "Every minute you spend agonizing over a two-way door is a minute you could have spent ENJOYING whatever you chose. For small decisions, the cost of deciding slowly is often higher than the cost of deciding 'wrong.'"
 
 Try the **100 Times Test** from Week 9: "If I made this choice randomly 100 times, would the results differ enough to matter?" For Speed 1-2 decisions, the answer is almost always no.
 
@@ -248,7 +266,7 @@ Common examples:
 
 ### Goal
 
-Build the habit of quickly categorising decisions by reversibility and adjusting effort accordingly.
+Build the habit of quickly categorizing decisions by reversibility and adjusting effort accordingly.
 
 ### Activities
 
@@ -259,6 +277,8 @@ For the next 5 days, log 2-3 decisions per day:
 | Decision | Door Type | Speed I Used | Speed I Should Have Used |
 |---|---|---|---|
 | (example) | Two-way | 🐢 4 (way too much time) | ⚡ 1 |
+
+**Minimum viable version (younger learners):** Track just 1 decision per day for 3 days. For each: "Was it a two-way or one-way door?" and "Did I spend the right amount of time?" Say the answers out loud.
 
 At the end of the week, look for patterns:
 - Do you tend to over-think or under-think?
@@ -274,11 +294,52 @@ At the end of the week: how did those quick decisions turn out? Were they any wo
 
 > For this week's entry, add a new field: **"Door Type: Two-Way / One-Way / Somewhere in between."** Also note: **"Speed I should use: 1-5."** Then invest the appropriate amount of thought before deciding.
 
+**Younger learner version:** Add just "Two-Way Door or One-Way Door?" to your journal entry this week. For the speed, use "Fast / Medium / Slow" instead of 1-5.
+
 ### Reflection Questions
 
 - What's the most time you've ever spent on a decision that turned out not to matter much?
 - Can a two-way door ever become a one-way door? (Hint: think about what happens if you wait too long to walk back through.)
 - Why is it so hard to make quick decisions, even when we know it doesn't matter much?
+
+---
+
+## Quick Mastery Check
+
+After this week, check whether the learner can:
+
+1. **Classify a decision:** "Choosing what game to play — two-way door or one-way door?" (Two-way.) "Posting a photo online?" (Closer to one-way — hard to fully delete.)
+2. **Match speed to stakes:** "Should you spend a lot of time deciding what color pen to use?" (No — it's a speed 1, fully reversible.) "What about whether to say something mean to a friend?" (Yes — words can't be unsaid.)
+3. **Explain opportunity cost:** "If you spend 20 minutes deciding what to watch, what's the cost?" (Looking for: "I lost 20 minutes I could have been watching" or "I wasted time I could have used for something else.")
+
+If the learner can classify decisions by reversibility and explain why it matters, Phase 3 is complete.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+After the Door Types or Speed Dial session, ask:
+
+> "Can you think of a time you said something you couldn't take back? How did that feel?"
+
+> "Sometimes we rush through one-way-door decisions (like saying something hurtful) because we're emotional — angry, frustrated, or embarrassed. And we slow down on two-way-door decisions (like picking a snack) because we're anxious or want everything to be perfect."
+
+Emotions flip our speed dials. Anger speeds us up when we should slow down. Anxiety slows us down when we should speed up. Noticing which emotion is driving your speed helps you match your effort to the actual stakes — not just to how you feel in the moment.
+
+**This week's takeaway:** Before a big decision, check your speed dial. Is it set to the right number — or is an emotion turning the dial for you?
+:::
+
+---
+
+## Spiral Review
+
+:::tip Connecting to Earlier Weeks
+- **From Week 7:** "The walk-away point is a reversibility tool. You set it in advance because once you're deep in a sunk cost spiral, the door becomes harder to walk back through."
+- **From Week 9:** "Use the 100 Times Test for two-way door decisions. If the outcome wouldn't differ much across 100 random picks, just pick and move on."
+- **From Week 10:** "Signal vs. noise + reversibility = a complete 'how much effort?' framework. For two-way doors, you need less signal to act. For one-way doors, gather more signal first."
+- **From Week 6:** "Opportunity cost connects directly here. Every minute spent agonizing over a reversible choice is a minute lost to the endowment effect of the option you haven't even picked yet."
+:::
 
 ---
 

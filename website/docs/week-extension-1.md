@@ -14,9 +14,20 @@ Bayesian updating (named after Reverend Thomas Bayes) gives us a framework: **Yo
 
 This is one of the most powerful ideas in all of science. And it's simpler than it sounds.
 
+:::warning Extension Week Readiness
+**Use this extension if:**
+- The learner has completed **at least Weeks 1–11** of the core curriculum (Phases 1–3).
+- The learner showed strong engagement with **Week 3 (Prediction & Calibration)** and **Week 10 (Signal vs. Noise)**.
+- The learner is comfortable with the idea of rating their confidence in a belief/prediction.
+
+**Hold off if:**
+- The learner struggled with Week 3's probability concepts.
+- The core 18-week curriculum hasn't been completed yet — finish the capstone first if possible.
+:::
+
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - This extension week is more conceptual and mathematical than the main curriculum. Recommended for students who flew through Weeks 1-18 and want more.
 - The gumball bag demo is essential — it makes an abstract concept tactile and fun.
 - You do NOT need to teach Bayes' Theorem as a formula. The intuition is what matters.
@@ -24,13 +35,13 @@ This is one of the most powerful ideas in all of science. And it's simpler than 
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: The Belief Update](#guided-session-1)
 - [Guided Session 2: Strong Evidence vs. Weak Evidence](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Independent Practice](#independent-practice)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Prepare two opaque bags (can't see inside):
@@ -41,8 +52,35 @@ This is one of the most powerful ideas in all of science. And it's simpler than 
 - Prepare the evidence strength examples for Session 2
 :::
 
-:::tip Teaching Mindset
+:::tip Facilitation Mindset
 The key insight: **Reasonable people can disagree on beliefs, but they should update in the same direction when presented with the same evidence.** If someone refuses to update when the evidence clearly points one way, that's a thinking error.
+:::
+
+## For Younger Learners (Ages 8–9)
+
+:::info Adapting This Week
+**Simplest version of the concept:** "When you learn something new, it should change how sure you are about what you believe. New clues update your best guess."
+
+**What to shorten or skip:**
+- Focus on the Mystery Bag and Weather Detective activities. They're concrete and playable.
+- Skip Bayes' theorem notation entirely. Keep it intuitive: "Before the clue, I thought ___. After the clue, I think ___."
+- Skip formal prior/posterior language with younger learners. Use "first guess" and "updated guess."
+- Keep sessions to 20 minutes.
+
+**Adapting the activities:**
+- For the Mystery Bag: Use a real bag with colored blocks. Start with 3 blocks (2 red, 1 blue). Pull one out without looking. "Before you looked, what color did you THINK it was? Now you see it's red — does that change your guess about what's left?"
+- For Weather Detective: Use real or pretend forecasts. "The weather app says 40% rain. You look outside and see clouds. Now what do you think — more or less than 40%?"
+- Keep the number of clues to 2–3 per round. Don't overwhelm.
+
+**Journal alternative:** "Something I changed my mind about this week: I used to think ___. Then I learned ___. Now I think ___." Spoken or drawn is fine.
+
+**What success looks like:** The learner can describe how one piece of new evidence changed their belief — even informally.
+:::
+
+:::info For Ages 10–12
+- Introduce the concept with numbers: "Before = 50%, new evidence pushes it to 75%."
+- Work through 2–3 Bayesian reasoning problems with simple fractions.
+- Discuss real examples where people fail to update: "Why do people keep believing something even when new evidence says otherwise?"
 :::
 
 ---
@@ -201,7 +239,7 @@ This exercise builds the habit of holding beliefs as **probability estimates** r
 
 ---
 
-## Independent Session
+## Independent Practice
 
 ### Goal
 
@@ -230,3 +268,40 @@ Write about a belief you held strongly that changed over the course of this curr
 - Is it a sign of strength or weakness to change your mind when you see good evidence?
 - What's the difference between being "open-minded" and being "wishy-washy"?
 - Can you think of a time when you should have updated your belief but didn't? What stopped you?
+
+---
+
+## Quick Mastery Check
+
+After this week, check whether the learner can:
+
+1. **Update a belief:** "You think there's a 50-50 chance your friend is coming to your party. Then they text 'What time should I arrive?' Now what do you think?" (Looking for: "Now I'm way more confident they're coming — like 90%.")
+2. **Explain the process:** "What does it mean to 'update' your belief?" (Looking for: "You change how sure you are based on new information.")
+3. **Show restraint:** "Is one clue always enough to completely change your mind?" (Looking for: "No — sometimes one clue only changes it a little. You need strong evidence to change a lot.")
+
+If the learner can update a belief in the right direction with new evidence, Bayesian intuition is building.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+After the Mystery Bag or belief-updating exercise, ask:
+
+> "Has someone ever showed you evidence that you were wrong, but you STILL didn't want to change your mind? What made it hard?"
+
+> "Updating beliefs can feel uncomfortable — like admitting you were wrong. But it's actually a sign of strength. The smartest people in the world change their minds ALL THE TIME when they get new evidence. The question isn't whether you're ever wrong — it's whether you're brave enough to update when you see the evidence."
+
+**This week's takeaway:** Changing your mind isn't flip-flopping. It's learning.
+:::
+
+---
+
+## Spiral Review
+
+:::tip Connecting to Earlier Weeks
+- **From Week 3:** "This is your Probability Glasses, powered up. In Week 3 you learned to rate your confidence. Now you're learning to UPDATE that confidence when new evidence arrives."
+- **From Week 10:** "Signal vs. noise matters here. Only update your beliefs based on SIGNAL — new evidence that's actually relevant. Noise shouldn't change your mind."
+- **From Week 4:** "Bayesian thinking is the opposite of hindsight bias. Instead of pretending you 'knew it all along,' you track exactly how your belief changed — and why."
+- **From Week 17:** "Your experiment was a Bayesian update. You had a prediction (prior), collected data (evidence), and drew a conclusion (posterior). You've already done this!"
+:::

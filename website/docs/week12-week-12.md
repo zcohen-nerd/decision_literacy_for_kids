@@ -54,11 +54,30 @@ This week we discover **ripple effects** — how a single decision can cascade o
 The goal is NOT to make the student feel guilty about their choices. It's to expand their mental model from "What's best for me?" to "What happens to the whole system when I make this choice?" Sometimes what's best for you IS best for everyone. Sometimes it isn't. The skill is knowing the difference.
 :::
 
-## Age Differentiation
+## For Younger Learners (Ages 8–9)
 
-| Ages 8–9 | Ages 10–12 |
-|---|---|
-| Focus on ripple map drawing — it's visual and accessible. Use family examples (choosing to share a snack → sibling is happier → less arguing → everyone's evening is better). | Push toward mapping longer causal chains. Discuss second-order effects and unintended consequences. |
+:::info Adapting This Week
+**Simplest version of the concept:** "When you make a choice, it doesn't just affect you. It affects the people around you — like a ripple in a pond."
+
+**What to shorten or skip:**
+- Focus on the Ripple Map drawing activity — it's visual, concrete, and the best activity this week.
+- For the Cooperation Challenge, the Paper Tower is the most fun and accessible. Skip the Resource Dilemma if time is short.
+- Keep sessions to 20 minutes.
+
+**Adapting the activities:**
+- For ripple maps, start with just 2–3 ripples outward instead of 5. Use family examples the learner recognizes (sharing a snack, helping with chores, playing loud music).
+- Draw the ripple maps with big circles and simple labels. Drawings count as labels.
+
+**Journal alternative:** "A choice I made this week that affected someone else was ___. The ripple was ___." Spoken is fine.
+
+**What success looks like:** The learner can describe how one of their choices affected someone else, tracing at least 2 steps outward.
+:::
+
+:::info For Ages 10–12
+- Challenge students to map 5+ step ripple chains and identify where effects become unpredictable.
+- Introduce the concept of second-order effects: "What happens because of what happened?"
+- In the Resource Dilemma, discuss how this scales to real-world problems like shared public spaces.
+:::
 
 ---
 
@@ -180,6 +199,14 @@ Discuss:
 - What was different about working together?
 - Were there any disagreements? How did you resolve them?
 
+:::note Solo/Small-Group Fallback
+**If only one learner + one facilitator:** Run the Paper Tower Challenge as a two-person team. Round 1: each person builds alone. Round 2: build together. The comparison still works with just two people.
+
+**For the Resource Dilemma:** Works with exactly 2 players (learner + facilitator). Play 5 rounds and discuss the same questions.
+
+**If truly solo:** Replace the hands-on cooperation game with a thought experiment: "Imagine 4 kids sharing 10 stickers. Each writes down secretly how many they want. If the total is over 10, nobody gets any. What would you write? What would happen if everyone thought like you?"
+:::
+
 ---
 
 **2. The Resource Dilemma**
@@ -246,6 +273,8 @@ Pick 3 decisions you made this week. For each one, draw a quick ripple map:
 - At least 3 ripples outward
 - Mark each ripple as positive (➕), negative (➖), or neutral (➡️)
 
+**Minimum viable version (younger learners):** Draw ONE ripple map for one choice you made today. Use simple pictures or faces (😊/😟) instead of words. Tell a grown-up about the ripples.
+
 **2. The Cooperation Inventory**
 
 List 5 situations this week where you had to coordinate with someone else (sharing a bathroom, deciding what to watch, choosing a game with friends, etc.).
@@ -267,16 +296,36 @@ For each one:
 
 ---
 
-## Tips for Simplifying or Extending
+## Quick Mastery Check
 
-:::tip Simplify (Ages 8–9)
-- Start with just 2-step ripple maps before expanding to 3–4 steps.
-- Use concrete family scenarios (sharing snacks, cleaning up) rather than abstract examples.
-- In the Cooperation Challenge, focus on the fun of building together rather than the strategy.
+After this week, check whether the learner can:
+
+1. **Trace a ripple:** "You leave your toys all over the living room. What are two ripple effects?" (Looking for: someone trips, parent gets frustrated, room feels messy, nobody wants to hang out there, etc.)
+2. **Identify a positive ripple:** "You help your sibling with their homework. What might happen next?" (Looking for: any chain of positive consequences — sibling is happier, less fighting, parent is pleased, etc.)
+3. **Ask the ripple question:** "Before making a choice, what question should you ask?" (Looking for: "Who else does this affect?" or "What ripples will this create?")
+
+If the learner can trace ripples at least 2 steps out, they're ready for Week 13.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+After the Ripple Map or Cooperation Challenge, ask:
+
+> "When you saw how your choices ripple out to other people, did it feel heavy — like a lot of responsibility? Or did it feel powerful — like you can make things better?"
+
+> "Sometimes we do things without thinking about the ripple because we're focused on our own feelings in the moment — being tired, annoyed, excited, or shy. Pausing to ask 'who else does this touch?' doesn't mean ignoring your own needs. It means making a choice that accounts for the bigger picture."
+
+**This week's takeaway:** Your choices don't happen in a vacuum. Noticing the ripple isn't about guilt — it's about making choices you're proud of when you look at the full picture.
 :::
 
-:::tip Extend (Ages 10–12)
-- Challenge students to map 5+ step ripple chains and identify where effects become unpredictable.
-- Introduce the concept of second-order effects: "What happens because of what happened?"
-- In the Resource Dilemma, discuss how this scales to real-world problems like shared public spaces.
+---
+
+## Spiral Review
+
+:::tip Connecting to Earlier Weeks
+- **From Week 9:** "Expected value calculation can include ripple effects. If your choice makes you +3 but costs someone else -5, the total EV might be negative."
+- **From Week 11:** "Is the ripple reversible? If you take the last slice of pizza, your sibling misses out — but it's a two-way door (you can share next time). If you say something cruel, the ripple is much harder to undo."
+- **From Week 7:** "Are you creating ripples because of sunk cost? ('I already started this argument, so I have to win it!') Sometimes the best ripple is the one you DON'T create — by walking away."
 :::

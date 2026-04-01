@@ -56,12 +56,22 @@ This week is about **wonder and surprise**, not math.
 Don't lecture about probability. Instead, let students make predictions and then be surprised when reality doesn't cooperate. That feeling of surprise IS the lesson.
 :::
 
-## Age Differentiation
+## For Younger Learners (Ages 8–9)
 
-:::info For Ages 8–9
-- Keep this week as a fun game. Focus on surprise and prediction.
-- Let learners guess and react — don't push for mathematical understanding.
-- Celebrate the "I didn't expect that!" moments as the real learning.
+:::info Adapting This Week
+**Simplest version of the concept:** "Sometimes things happen because of luck, not because of anything you did." That's the only idea that needs to land this week.
+
+**What to shorten or skip:**
+- Skip the dice discovery activity if attention is limited. The coin flip prediction challenge alone is enough.
+- Keep sessions to 20 minutes instead of 30.
+
+**Adapting the activities:**
+- For the Luck-Skill Spectrum, use only 4–5 familiar examples (coin flip, tic-tac-toe, getting dressed, a spelling test).
+- For the Decision Journal, accept one spoken sentence instead of written entries. The facilitator can write it down.
+
+**Journal alternatives:** The learner can draw a picture of their decision, tell you their answer out loud, or use this sentence starter: "This week I chose ___ because ___."
+
+**What success looks like:** The learner can say, in their own words, that sometimes results are just luck — and that getting a bad result doesn't always mean you did something wrong.
 :::
 
 :::info For Ages 10–12
@@ -207,6 +217,8 @@ Explore the luck-skill spectrum through direct experience and make the first Dec
 
 Play three different short games (suggestions: coin flips, a card-matching memory game, and a simple puzzle — or Go Fish if a partner is available). After each one, place it on the Luck-Skill spectrum and write one sentence explaining why.
 
+**Minimum viable version (younger learners):** Play just one game (e.g., coin flips). Place it on the Luck-Skill spectrum and say one sentence about why — out loud is fine.
+
 **2. Real Life Luck vs. Skill**
 
 Think about three things that happened this week. For each one, was the outcome mostly luck, mostly skill, or a mix? Write a sentence about each:
@@ -227,6 +239,12 @@ Start your Decision Journal with this first entry:
 
 We'll come back to this entry next week to see what actually happened.
 
+**Sentence starters for younger learners:**
+- "This week I need to decide ___."
+- "I think ___ will happen because ___."
+
+**Oral option:** Tell a parent or facilitator your answers. They can write them in the journal for you.
+
 ### Reflection Questions
 
 - Was there anything this week where you got a result you didn't expect?
@@ -235,10 +253,38 @@ We'll come back to this entry next week to see what actually happened.
 
 ---
 
-:::tip Simplify This Week
+## Quick Mastery Check
+
+After this week, check whether the learner can:
+
+1. **Explain in one sentence:** "Can you tell me why a coin flip is impossible to predict?" (Looking for: "It's random / it's luck / there's no way to know.")
+2. **Sort one example:** "Your friend studied hard and got an A. Was that mostly luck, mostly skill, or a mix?" (Looking for: "mostly skill" or "a mix.")
+3. **Show comfort with uncertainty:** Ask "Will it rain tomorrow?" — a good response includes uncertainty ("Maybe" / "I'm not sure" / "Probably not") rather than a flat yes or no.
+
+If the learner can do at least 2 of these, they're ready for Week 2.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+After one of this week's activities, ask:
+
+> "When you predicted the coin flip wrong, how did that feel? Did it feel unfair? Frustrating? Funny?"
+
+> "Is there a time in real life when something didn't go the way you wanted, even though you tried your best? How did that feel?"
+
+The point isn't to fix the feeling — it's to notice it. Good decision-makers pay attention to how they feel, because strong feelings (frustration, embarrassment, excitement) can push us toward snap reactions instead of clear thinking.
+
+**This week's takeaway:** It's okay to feel frustrated when things don't go your way. Noticing that feeling is the first step to thinking clearly anyway.
+:::
+
+---
+
+:::tip Simplify (Ages 8–9)
 If the learner is younger or attention is limited, skip the dice activity and focus only on coin flips and predictions. The single key takeaway — "you can't predict a coin flip, and that's fine" — is enough for one week.
 :::
 
-:::tip Extend for Older Learners
+:::tip Extend (Ages 10–12)
 Challenge ages 10–12 to predict how many 7s they'd expect in 36 dice rolls, then test it. Discuss why more rolls give a clearer picture (introducing the concept of sample size). Ask: "How many flips would you need to be confident a coin is fair?"
 :::

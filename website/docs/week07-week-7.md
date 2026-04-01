@@ -10,7 +10,7 @@ description: "Why 'I've already started' is a dangerous reason to keep going, an
 
 Last week we felt the pull of loss aversion. This week we meet its close cousin — sunk cost thinking, the voice that says "but I've already started!"
 
-Money, time, or energy you have already spent is **gone forever**. It should NOT affect what you do next. But our brains hate the feeling of "wasting" a past investment, so we keep going even when stopping would be smarter. This is the **sunk cost fallacy**, and it trips up kids, adults, CEOs, and governments alike.
+Money, time, or energy you have already spent is **gone forever**. It should NOT affect what you do next. But our brains hate the feeling of "wasting" a past investment, so we keep going even when stopping would be smarter. This is the **sunk cost fallacy**, and it trips up everyone — kids, parents, coaches, and even big companies.
 
 This week we feel the pull of sunk costs, learn to name the trap, and practice asking the only question that matters: **"What is the best use of my time and resources FROM THIS POINT FORWARD?"**
 
@@ -29,7 +29,7 @@ The sunk cost trap is fast brain whispering "don't waste what you spent" before 
 - [Guided Session 1: The Movie Ticket Problem](#guided-session-1)
 - [Guided Session 2: The Escalation Game](#guided-session-2)
 - [Independent Practice](#independent-practice)
-- [Age Differentiation](#age-differentiation)
+- [For Younger Learners](#for-younger-learners-ages-89)
 :::
 
 ## Week at a Glance
@@ -54,16 +54,34 @@ The sunk cost trap is fast brain whispering "don't waste what you spent" before 
 :::
 
 :::tip Facilitation Mindset
-The hardest part of sunk cost thinking is that quitting sometimes IS the smart move. Our culture often celebrates "never give up," which is great for perseverance but terrible for sunk costs. Help the student see the difference: **perseverance is continuing because the goal still makes sense. Sunk cost is continuing only because of what you already spent.**
+Quitting is sometimes the smart move. Help the student separate **perseverance** (the goal still makes sense) from **sunk cost thinking** (they are only protecting what they've already spent).
 :::
 
-## Age Differentiation
+## For Younger Learners (Ages 8–9)
 
-| Ages 8–9 | Ages 10–12 |
-|---|---|
-| Focus on the movie ticket problem as a story. Walk through scenarios with lots of discussion. | Run the full dollar auction. Discuss real-world escalation (businesses throwing more money at failing projects). |
-| The dollar auction may be too abstract — use simpler escalation examples like continuing to wait in a long line or eating food you don't want just because you ordered it. | Explore how sunk cost thinking affects companies, governments, and large-scale decisions. |
-| Use the scenario cards as read-alouds; help connect each to the student's own life. | Have the student generate their own sunk cost scenarios and quiz a family member. |
+:::info Adapting This Week
+**Simplest version of the concept:** "Just because you already started something doesn't mean you have to finish it — especially if it's not working."
+
+**What to shorten or skip:**
+- Focus on the Movie Ticket Problem and 2–3 scenario cards as stories and discussion. These are concrete and accessible.
+- Skip the Dollar Auction — it can be abstract for younger learners. Instead, role-play "waiting in a long line for a ride that isn't fun anymore."
+- Keep sessions to 20 minutes.
+
+**Adapting the activities:**
+- For the scenario cards, read them aloud and discuss one at a time. Do 2–3 rather than all 5.
+- For the "When Continuing IS Right" sort, reduce to 3 pairs and discuss verbally.
+- Focus on one walk-away point rather than three.
+
+**Journal alternative:** "Something I kept doing this week even though I wanted to stop was ___." Spoken or drawn is fine.
+
+**What success looks like:** The learner can explain, in their own words, that finishing something just because you started isn't always the right call — and can give one example.
+:::
+
+:::info For Ages 10–12
+- Run the full dollar auction with multiple rounds, varying the prize value.
+- Discuss real-world escalation spirals — research a real example (like the Concorde fallacy).
+- Challenge: go one full week noticing sunk cost traps and log every instance in the Decision Journal.
+:::
 
 ---
 
@@ -108,7 +126,7 @@ Connection to opportunity cost:
 
 Read each scenario and ask: "Is this person falling into the sunk cost trap? What should they do?"
 
-1. **The LEGO Set:** "I've been building this LEGO set for 3 hours but I realised I don't like how it looks. Should I finish it just because I started?"
+1. **The LEGO Set:** "I've been building this LEGO set for 3 hours but I realized I don't like how it looks. Should I finish it just because I started?"
 2. **The Book:** "I'm 100 pages into a 300-page book and it's boring. But I've already read 100 pages…"
 3. **The Sport:** "I've played soccer for 2 years but I really want to try swimming. Mom says I should stick with soccer because of the 2 years of practice."
 4. **The Video Game:** "I've been trying to beat this level for an hour. I'm not having fun but I don't want to 'waste' the hour I already spent."
@@ -167,6 +185,12 @@ Play it out:
 4. Most players keep bidding to avoid "losing" what they've already bid.
 5. Often the bidding goes PAST the value of the prize. Both players end up paying more than the prize is worth!
 
+:::note Solo/Small-Group Fallback
+**If only one learner + one facilitator:** The facilitator plays against the learner in the Dollar Auction. The dynamic works just as well with two people.
+
+**If no auction is possible:** Replace with a discussion-based version. Present this scenario: "You've been waiting in line for 20 minutes. The sign says 30 more minutes. You're not even sure the ride is fun. Do you stay in line?" Walk through the sunk cost reasoning together.
+:::
+
 Debrief:
 
 > "What happened? Why did you keep bidding even when the price got too high?"
@@ -222,6 +246,8 @@ Look around your room, your schedule, and your habits. Find at least one thing y
 - If you had NOT already invested anything, would you start it today?
 - What would you do with the time/energy if you stopped?
 
+**Minimum viable version (younger learners):** Think of ONE thing you kept doing this week even though you wanted to stop. Tell a grown-up: "I kept ___ because I already ___. But really, I should have ___."
+
 **2. Set Three Walk-Away Points**
 
 For three things you're starting or continuing this week, set a specific walk-away point in advance. Write them in your Decision Journal.
@@ -238,7 +264,43 @@ For three things you're starting or continuing this week, set a specific walk-aw
 
 ---
 
-## Simplify / Extend
+## Quick Mastery Check
+
+After this week, check whether the learner can:
+
+1. **Apply the magic question:** Present a scenario: "You've been reading a book for an hour and you hate it. Should you finish it because you already read this much?" (Looking for: "No — the hour is already gone. The question is whether the REST of the book is worth reading.")
+2. **Distinguish sunk cost from perseverance:** "What's the difference between 'not giving up' and 'sunk cost'?" (Looking for: something about whether the REASON is forward-looking or backward-looking.)
+3. **Name a walk-away point:** "Can you set a walk-away point for something you're doing this week?" (Any specific example counts.)
+
+If the learner can apply the "from this point forward" question, they're ready for Week 8.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+After the Movie Ticket Problem or scenario cards, ask:
+
+> "When you think about quitting something you've put time into, what emotion comes up? Guilt? Embarrassment? Worry about what others will think?"
+
+> "Sometimes we keep going not because it makes sense, but because quitting feels like admitting we were wrong. That's a feeling, not a fact."
+
+Sunk cost thinking is powered by emotions — the discomfort of "wasting" effort, the fear of looking foolish, the loyalty to a past version of yourself who made a different choice. Recognizing those feelings helps you ask the real question: "Is this still worth it going forward?"
+
+**This week's takeaway:** Quitting isn't failure when the reason to continue has disappeared. The bravest choice is sometimes to stop.
+:::
+
+---
+
+## Spiral Review
+
+:::tip Connecting to Earlier Weeks
+- **From Week 5:** "Sunk cost thinking is a fast-brain shortcut. Your brain whispers 'don't waste what you spent!' before slow brain can ask 'is this still worth it?'"
+- **From Week 6:** "Sunk cost is closely related to loss aversion. Quitting FEELS like losing the investment — and we know losses feel 2× worse than gains."
+- **From Week 2:** "Put the sunk cost decision on the 2×2 grid. If you kept going and it worked out, was that good process or just luck?"
+:::
+
+---
 
 :::tip Simplify (Ages 8–9)
 - Use only 2–3 scenario cards and discuss them as stories rather than exercises.

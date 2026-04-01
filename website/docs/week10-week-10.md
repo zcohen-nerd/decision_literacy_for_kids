@@ -53,13 +53,31 @@ More information doesn't always mean better decisions. In fact, too much informa
 The hardest part of signal vs. noise is that noise often FEELS like signal. It's interesting, it's detailed, it's compelling — it's just not relevant. The skill is asking: "Does this information change what I should DO?"
 :::
 
-## Age Differentiation
+## For Younger Learners (Ages 8–9)
 
-| | Ages 8–9 | Ages 10–12 |
-|---|---|---|
-| **Beach Decision** | Focus on the sorting activity with physical cards or objects. Skip the more abstract diminishing returns chart. | Full activity plus discussion of information overload in social media and news contexts. |
-| **Information diet** | Emphasize the "Does this change what I do?" test with concrete examples. | Discuss how algorithms exploit our inability to distinguish signal from noise. |
-| **Diminishing returns** | Keep intuitive — "the first scoop of ice cream is the best." | Explore diminishing returns mathematically. Have them graph study time vs. test improvement. |
+:::info Adapting This Week
+**Simplest version of the concept:** "Not everything you know about a choice actually helps you decide. The trick is figuring out which facts matter."
+
+**What to shorten or skip:**
+- Focus on the Beach Decision activity with physical cards — it's hands-on and accessible.
+- Skip the abstract diminishing returns chart. Use a concrete analogy instead: "The first scoop of ice cream is amazing. The fifth scoop? Not so great."
+- For the Timed Decision, keep it playful — don't stress the time pressure.
+- Keep sessions to 20 minutes.
+
+**Adapting the activities:**
+- For the Beach Decision, print or write the facts on index cards. Let the learner physically sort them into "Helps me decide" and "Doesn't help" piles.
+- For the Newspaper Test, stick to one concrete decision (like the jacket question) and practice the filter: "Does this fact change what I'd do?"
+
+**Journal alternative:** "A fact that helped me decide this week was ___. A fact that didn't matter was ___." Spoken is fine.
+
+**What success looks like:** The learner can sort a few facts into "helps me decide" vs. "doesn't help" for a familiar decision.
+:::
+
+:::info For Ages 10–12
+- Full activity including diminishing returns graph and discussion of information overload in social media and news contexts.
+- Discuss how algorithms exploit our inability to distinguish signal from noise.
+- Explore diminishing returns mathematically. Have them graph study time vs. test improvement.
+:::
 
 ---
 
@@ -122,6 +140,12 @@ Practice with:
   - "You already ate half your sandwich" → Might be signal (how hungry are you?)
   - "Chips were first made in 1853" → Noise
   - "You DON'T like chips" → SIGNAL (deal-breaker!)
+
+- Decision: "Should I invite a new kid to play with us at recess?"
+  - "They're wearing a cool shirt" → Noise (doesn't tell you if they're fun to play with)
+  - "They were really nice in class today" → SIGNAL (you saw them being friendly)
+  - "Their backpack is the same brand as yours" → Noise
+  - "They asked if anyone wanted to play" → SIGNAL (they want to join in!)
 
 ---
 
@@ -240,6 +264,8 @@ For 3 decisions this week, write down:
 
 How much of what you considered was actually useful?
 
+**Minimum viable version (younger learners):** Pick just ONE decision from this week. Ask: "What facts helped me decide? What facts didn't matter?" Say the answers out loud.
+
 **2. The Speed Challenge**
 
 Pick 5 small, reversible decisions this week. For each, set a timer:
@@ -258,6 +284,45 @@ Did fast decisions turn out worse than slow ones? (Usually the answer is: not re
 - What's the difference between someone who makes decisions quickly and someone who makes them recklessly?
 - Have you ever spent so long deciding that you missed the opportunity entirely?
 - Where in your life do you tend to over-research? Where do you tend to under-research?
+
+---
+
+## Quick Mastery Check
+
+After this week, check whether the learner can:
+
+1. **Sort signal from noise:** "You're deciding whether to try out for a team sport. Which of these matters: (a) the practice schedule, (b) the team's mascot is a tiger, (c) your friend is on the team." (Looking for: a and c are signal, b is noise.)
+2. **Explain diminishing returns:** "Why isn't studying for 4 hours always twice as useful as studying for 2 hours?" (Looking for: "The first hours help the most" / "You get tired" / "Each extra hour helps less.")
+3. **Apply the test:** "How do you know when you have enough information to make a decision?" (Looking for: "When more information wouldn't change what I'd do" or similar.)
+
+If the learner can sort signal from noise in a simple example, they're on track for Week 11.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+After the Beach Decision or Information Diet session, ask:
+
+> "Have you ever kept looking up information about something because you were nervous about making the wrong choice? Did all that extra searching actually help — or did it just delay the decision?"
+
+> "Sometimes we gather more and more information not because we need it, but because deciding feels scary. The information-gathering becomes a way to avoid the uncomfortable moment of committing."
+
+Noticing whether you're searching for useful facts or just avoiding a decision is a powerful self-awareness skill. It's okay to feel nervous about a choice — but recognizing that the nervousness is driving the over-research helps you take action sooner.
+
+**This week's takeaway:** If you've been researching for a while and your answer isn't changing, you probably have enough. The discomfort of deciding is different from the discomfort of not knowing enough.
+:::
+
+---
+
+## Spiral Review
+
+:::tip Connecting to Earlier Weeks
+- **From Week 5:** "Availability bias is a signal-vs-noise problem. A scary news story is NOISE for most decisions, but your brain treats it as SIGNAL because it's easy to picture."
+- **From Week 9:** "Expected value calculations only work if the information going in is signal, not noise. Garbage in = garbage out."
+- **From Week 3:** "Your Probability Glasses help here. When you rate your confidence, ask: is my confidence based on signal or noise?"
+- **From Week 6:** "Ads use framing to make noise FEEL like signal. 'Was $80, now $30!' — the $80 is noise, but anchoring makes it feel important."
+:::
 
 ---
 

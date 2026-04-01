@@ -54,11 +54,33 @@ We play one of the most famous thought experiments in all of decision science: *
 The Prisoner's Dilemma feels unfair — that's the point. It demonstrates a real tension in human interaction. Don't resolve the tension too quickly. Let the student sit with the frustrating insight that rational individual behavior can lead to collectively terrible outcomes.
 :::
 
-## Age Differentiation
+## For Younger Learners (Ages 8–9)
 
-| Ages 8–9 | Ages 10–12 |
-|---|---|
-| Play the basic game with simplified scoring. Focus on the FEELING of wanting to cooperate vs. wanting to win. The zero-sum/positive-sum distinction might be too abstract — use pizza vs. chore trading as concrete examples. | Full game theory analysis. Calculate total scores under different strategy combinations. Discuss real-world applications (trade, environmental agreements). |
+:::info Adapting This Week
+**Simplest version of the concept:** "When your choice depends on what someone else chooses, you need to think about what they might do — not just what you want to do."
+
+**What to shorten or skip:**
+- Focus on the Sharing Game (Prisoner's Dilemma) — it's concrete and playable.
+- Skip the formal payoff matrix notation. Use "What happens" storytelling instead.
+- Keep Nash Equilibrium intuitive: "The spot where nobody wants to change their mind."
+- Don't use the term "Nash Equilibrium" with younger learners — call it "the stuck spot" or "the landing spot."
+- Keep sessions to 20 minutes.
+
+**Adapting the activities:**
+- Play the Sharing Game with actual small items (stickers, crackers, tokens). Physical rewards make the payoffs real.
+- Use only 3–4 rounds, not the full 10. The insight clicks fast.
+- For the real-world discussion, stick to playground and sibling examples — "Your sister can share the iPad or hide it. You can share or hide yours."
+
+**Journal alternative:** "In the Sharing Game, I chose to ___ because ___. Next time I might ___ because ___." Spoken is fine.
+
+**What success looks like:** The learner can explain "I had to think about what the other person would do, not just what I wanted" in their own words.
+:::
+
+:::info For Ages 10–12
+- Full payoff matrix with numbers. Challenge students to find Nash Equilibrium by elimination.
+- Discuss real-world prisoner's dilemmas: arms races, group projects, environmental cooperation.
+- Explore why the "rational" choice (defect) leads to a worse outcome for everyone.
+:::
 
 ---
 
@@ -115,6 +137,12 @@ Let it play out without coaching. Track scores:
 | ... | | | | |
 | 10 | | | | |
 | **Total** | | | | |
+
+:::note Solo/Small-Group Fallback
+**If only one learner + facilitator:** Play the Sharing Game as learner vs. facilitator. The facilitator should vary strategy — cooperate some rounds, defect others — so the learner experiences the full range of outcomes.
+
+**If truly solo:** Use a decision tree instead. "Imagine your friend can share or hide. For each of their choices, what would you do? Draw or write what happens in each case." The learner maps all 4 outcomes and circles the "stuck spot."
+:::
 
 ---
 
@@ -258,6 +286,8 @@ Play a simplified version with a family member at least 5 times this week (can u
 
 > Write about a situation where you chose to cooperate even though defecting would have benefited you in the short term. What happened? Looking back, are you glad you cooperated? How does this connect to Tit-for-Tat?
 
+**Minimum viable version (younger learners):** After dinner or a family activity, answer one question: "Did I cooperate or compete today? What happened because of my choice?" Say it out loud or draw a two-outcome picture.
+
 ### Reflection Questions
 
 - Is it ever right to defect? When?
@@ -266,7 +296,44 @@ Play a simplified version with a family member at least 5 times this week (can u
 
 ---
 
-## Tips for Simplifying or Extending
+## Quick Mastery Check
+
+After this week, check whether the learner can:
+
+1. **Explain interdependence:** "How is choosing what to eat for lunch different from choosing whether to share your toys with a friend?" (Looking for: "What I eat doesn't depend on someone else's choice, but sharing does — it depends on whether they share back.")
+2. **Predict a response:** "If you always cooperate in the Sharing Game, what will most people eventually do?" (Looking for: "Take advantage" or "Defect, because they get the best deal.")
+3. **Find the stuck spot:** "In the Sharing Game, why do both players often end up both hiding — even though both sharing would be better?" (Looking for: "Because each person is scared the other will hide, so they hide too.")
+
+If the learner can explain why "both hide" happens even though "both share" is better, they've grasped the core paradox.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+After the Sharing Game, ask:
+
+> "When your partner chose to hide while you shared, how did that feel? Did it make you want to hide next time — even though you believe sharing is the right thing to do?"
+
+> "Game theory shows us that doing the 'smart' thing and doing the 'kind' thing sometimes pull in different directions. That tension is real — and there's no shame in feeling it."
+
+Trust, fairness, and loyalty all live inside these games. When someone cooperates despite the risk, they're choosing to trust — and that takes courage. When someone defects, they might be protecting themselves. Understanding the game helps you choose deliberately instead of just reacting.
+
+**This week's takeaway:** The best decision-makers don't just calculate outcomes — they also decide what kind of person they want to be in the game.
+:::
+
+---
+
+## Spiral Review
+
+:::tip Connecting to Earlier Weeks
+- **From Week 12:** "Every round of the Sharing Game creates ripples. Your choice to cooperate or defect doesn't just affect this round — it shapes whether the other person trusts you next round."
+- **From Week 9:** "Expected value still applies. If you cooperate and your partner cooperates 60% of the time, calculate: is cooperation or defection the better bet? Now factor in the relationship cost."
+- **From Week 6:** "Loss aversion shows up here. The sting of being betrayed (you shared, they hid) feels worse than the satisfaction of mutual sharing — which pushes people toward hiding."
+- **From Week 11:** "Is each round of the Sharing Game a two-way door or a one-way door? In a one-shot game it's closer to one-way. In a repeated game, each round is more two-way — you can rebuild trust."
+:::
+
+---
 
 :::tip Simplify (Ages 8–9)
 - Use simplified scoring (cooperate = 2 pts each, defect vs. cooperate = 3 pts / 0 pts, both defect = 1 pt each).

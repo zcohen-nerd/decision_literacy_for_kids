@@ -58,7 +58,25 @@ In plain language: "Imagine doing this a hundred times. On average, how does it 
 EV is a tool, not a commandment. It tells you what the math favours, but it doesn't account for how much a loss would hurt or how much a win would mean. We'll address those nuances in Session 2.
 :::
 
-## Age Differentiation
+## For Younger Learners (Ages 8–9)
+
+:::info Adapting This Week
+**Simplest version of the concept:** "Before you pick, ask: 'If I did this 10 times, would I come out ahead or behind?'" That's the 100 Times Test, and it IS expected value thinking — just without the formula.
+
+**What to shorten or skip:**
+- Skip the EV formula entirely. Use only the 100 Times Test with physical tokens.
+- Limit to coin-flip bets (50/50 probabilities) for Session 1. Skip the die-based bets.
+- In Session 2, do just the Spelling Test scenario — skip the Lemonade Stand and the "bet everything" exercise.
+- Keep sessions to 20 minutes.
+
+**Adapting the activities:**
+- Use physical tokens the learner can hold, count, and stack. Abstract numbers on paper won't land for this age.
+- Frame bets as "games at a school fair" — "You toss a coin. Heads: you win 2 prize tickets. Tails: you give back 1 prize ticket."
+
+**Journal alternative:** "The best deal I saw this week was ___ because if I did it 10 times, I'd come out ahead / behind." Spoken is fine.
+
+**What success looks like:** The learner can look at a simple choice and say "that's a good deal" or "that's a bad deal" based on thinking about what would happen over many tries.
+:::
 
 This is the most math-heavy week. Adjust depth by age group:
 
@@ -66,7 +84,7 @@ This is the most math-heavy week. Adjust depth by age group:
 |---|---|---|
 | **EV formula** | Skip the formula. Use "the 100 Times Test" and intuitive reasoning: "If you played this game 10 times, would you win or lose overall?" Use physical tokens to count. | Introduce the EV formula explicitly. Have them calculate EV for multiple scenarios. Push toward real-world applications. |
 | **Bet activities** | Fewer bets, simpler numbers (whole-number probabilities). | Full set of bets including fractions and decimals. |
-| **Casino discussion** | Brief and matter-of-fact. | Connect to real-world business models. |
+| **Game booth discussion** | Brief and matter-of-fact. | Connect to real-world business models (game booths, subscription services, lotteries). |
 
 ---
 
@@ -83,7 +101,7 @@ By the end of this session, the student can:
 
 #### Activities
 
-**1. The Coin Flip Casino**
+**1. The Token Game**
 
 Remember the coin-flip bet from Week 6? You felt the pull of loss aversion — even though the math was in your favor, it *felt* risky. This time, we're going to calculate exactly WHY the math said you should play.
 
@@ -123,13 +141,13 @@ Key insight: "Your gut might say the +10 bet looks amazing. But because you only
 
 ---
 
-**3. Why Casinos Always Win**
+**3. Why the Game Booth Always Profits**
 
 Brief discussion:
 
-> "Every game in a casino has a negative expected value for the player. The casino doesn't need to win every hand — it just needs the math to be slightly in its favour. Over thousands of games, the casino ALWAYS comes out ahead. That's EV in action."
+> "Think about the game booths at a school fair or carnival. The prizes look amazing, but the games are set up so that *on average* the booth earns more than it gives away. The booth doesn't need to win every round — it just needs the math to be slightly in its favour. Over hundreds of players, the booth ALWAYS comes out ahead. That's EV in action."
 
-Connect to real life: "When someone offers you a deal that seems amazing, ask yourself: what's THEIR expected value? If they're making money on average, you're probably losing it."
+Connect to real life: "When someone offers you a deal that seems amazing — a game, a subscription, a 'free' trial — ask yourself: what's THEIR expected value? If they're making money on average, you're probably spending more than you realize."
 
 > **Opportunity cost connection:** "Choosing one bet means choosing NOT to keep your tokens for the next bet. That's opportunity cost — a concept we'll explore fully in Week 11."
 
@@ -241,6 +259,44 @@ For 5 decisions you make this week, do a quick mental EV check: "If I did this 1
 - Is a decision with negative EV always a bad decision? Can you think of an exception?
 - Why do people buy lottery tickets even though the EV is very negative?
 - How accurate are your probability estimates? What would make them more accurate?
+
+---
+
+## Quick Mastery Check
+
+After this week, check whether the learner can:
+
+1. **Apply the 100 Times Test:** "I offer you this deal: flip a coin. Heads, you win 3 tokens. Tails, you lose 1 token. Good deal or bad deal?" (Looking for: "Good deal — I'd win more than I'd lose over time.")
+2. **Spot a bad deal:** "A game booth charges you 2 tickets to play. You win 10 tickets if you roll a 6 on a die, otherwise nothing. Good deal or bad deal?" (Looking for: "Bad deal" — EV is about -0.33.)
+3. **Explain the instinct:** "What question should you ask yourself when someone offers you a deal?" (Looking for: "If I did this 100 times, would I come out ahead or behind?" or similar.)
+
+If the learner can identify a good deal vs. a bad deal, they're ready for Week 10.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+After the Token Game or the "When EV Isn't Enough" discussion, ask:
+
+> "Even when the math says a deal is good, sometimes it FEELS too scary. Why is that?"
+
+> "Can you think of a choice where the 'smart' thing to do felt wrong because of what you might lose?"
+
+Expected value tells you what the math favors. But how you FEEL about the risk matters too. A positive-EV bet that makes you sick with worry might not be worth it for you — and that's okay. The goal is to know what the math says AND to notice how you feel, so you can make a conscious choice instead of just reacting.
+
+**This week's takeaway:** Math is a powerful tool for decisions, but it's not the only tool. Your values and your comfort with risk are part of the equation too.
+:::
+
+---
+
+## Spiral Review
+
+:::tip Connecting to Earlier Weeks
+- **From Week 3:** "EV is your Probability Glasses turned up to full power. You're not just saying 'pretty sure' anymore — you're calculating exactly how sure."
+- **From Week 6:** "Remember loss aversion? The coin-flip bet FELT risky even though the math was in your favor. Now you can CALCULATE why you should have played."
+- **From Week 2:** "A positive-EV choice that doesn't work out is a good process with a bad outcome — it belongs in the top-right box of the 2×2 grid."
+:::
 
 ---
 

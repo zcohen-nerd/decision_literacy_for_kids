@@ -51,12 +51,23 @@ This week we experience loss aversion first-hand and learn to spot it in the wil
 Let the student feel the pull of loss aversion before naming it. The "aha" moment is stronger when the concept explains something they just experienced.
 :::
 
-## Age Differentiation
+## For Younger Learners (Ages 8–9)
 
-:::info For Ages 8–9
-- Lean into the hands-on trading game and endowment experiment — these are concrete and fun.
-- Keep the framing pairs activity but skip the more abstract framing discussions.
-- Focus on the *feeling* of loss aversion rather than the mathematics behind it.
+:::info Adapting This Week
+**Simplest version of the concept:** "Losing something feels way worse than getting something feels good. Your brain makes losing feel like a bigger deal than it really is."
+
+**What to shorten or skip:**
+- Focus on the Trading Game (Session 1) — it's concrete, hands-on, and carries the week alone.
+- For the Framing Effect (Session 2), do just the "Same Fact, Different Feeling" pairs activity. Skip the Reframe Challenge.
+- Keep sessions to 20 minutes.
+
+**Adapting the activities:**
+- Use real objects the learner cares about slightly (stickers, small toys) for the trading game. The emotional response IS the lesson.
+- For the coin-flip bet, use physical tokens or treats instead of abstract points. Let them hold and see what they might win or lose.
+
+**Journal alternative:** "Something I didn't want to give up this week was ___ because ___." Spoken or drawn is fine.
+
+**What success looks like:** The learner can say, in their own words, "losing feels worse than winning feels good" and can name one time they felt that pull.
 :::
 
 :::info For Ages 10–12
@@ -127,6 +138,12 @@ Discuss together:
 - Have you ever chosen NOT to try something new because you were afraid of losing what you already have?
 
 These are all loss aversion. It's your brain's alarm system overreacting to potential losses.
+
+:::note Solo/Small-Group Fallback
+**If you're working with just one learner:** The facilitator plays both roles in the Trading Game. Give the learner an object, let them bond with it, then offer a trade. The endowment effect works just as well one-on-one.
+
+**For the coin-flip bet:** Works perfectly with just one learner and one facilitator. No extra players needed.
+:::
 
 ---
 
@@ -207,6 +224,10 @@ Over the next few days, notice moments when you feel the pull of loss aversion:
 
 Write down at least 3 examples.
 
+**Minimum viable version (younger learners):** Notice just ONE moment where losing something felt like a bigger deal than it was. Tell a grown-up about it. That's enough.
+
+**Sentence starter:** "I didn't want to give up ___ because ___. But really, it was / wasn't worth holding onto."
+
 **2. Framing Spotter**
 
 Find 3 examples of framing in the real world:
@@ -229,10 +250,46 @@ For each, label it as "gain frame" or "loss frame."
 
 ---
 
-:::tip Simplify This Week
+## Quick Mastery Check
+
+After this week, check whether the learner can:
+
+1. **Name loss aversion:** "Why didn't you want to trade your object in the Trading Game, even though the other one was just as good?" (Looking for: "Because it was MINE" / "Losing it felt bad" / "My brain made it feel more valuable.")
+2. **Spot a framing trick:** Show them: "Don't miss out on this deal!" Ask: "Is this trying to make you excited about a gain, or scared of a loss?" (Looking for: "Scared of a loss" / "Loss frame.")
+3. **Connect to life:** "Can you think of a time you kept something just because it was yours, not because you actually wanted it?" (Any genuine example works.)
+
+If the learner understands that losing feels outsized compared to gaining, they're ready for Week 7.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+After the Trading Game, ask:
+
+> "When I asked you to trade, what did you feel in your body? Did your stomach clench? Did you want to pull the object closer?"
+
+> "Loss aversion is really a FEELING — your brain sends an alarm that says 'Don't let go!' Sometimes that alarm is helpful (holding onto something truly important). Sometimes it's just noise. The skill is noticing the alarm and asking: 'Is this alarm real, or is my brain overreacting?'"
+
+**This week's takeaway:** The feeling of "I don't want to lose this" is real and valid. But it doesn't always mean you should hold on. Check whether the feeling matches the actual value.
+:::
+
+---
+
+## Spiral Review
+
+:::tip Connecting to Earlier Weeks
+- **From Week 2:** "When loss aversion makes you choose poorly, it's a bad process — even if you get a good outcome. The 2×2 grid still applies."
+- **From Week 3:** "How confident are you that trading would make you worse off? Put on your Probability Glasses. Is the fear of losing really a 90% chance of regret, or more like 20%?"
+- **From Week 5:** "Loss aversion is a fast-brain reaction. The feeling of 'don't let go!' fires instantly, before slow brain can check the math."
+:::
+
+---
+
+:::tip Simplify (Ages 8–9)
 The trading game alone can carry the week. If the framing discussion feels abstract, skip the Reframe Challenge and spend more time on the Loss Aversion Diary in Independent Practice — real-life observation is often the best teacher.
 :::
 
-:::tip Extend for Older Learners
+:::tip Extend (Ages 10–12)
 Introduce the expected-value formula explicitly and have learners calculate the EV of several real-world bets or choices. Discuss how loss aversion interacts with other biases from Week 5 — for example, how availability bias can amplify the feeling of loss when a recent bad outcome is fresh in mind.
 :::

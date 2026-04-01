@@ -54,11 +54,34 @@ This week we brainstorm, pick a target, and dig down to the real root cause.
 This is where the curriculum goes from theory to practice. Your role shifts from teacher to coach. Ask questions, guide the process, but let the student drive the choices. Their investment in their own problem is what makes this project real.
 :::
 
-## Age Differentiation
+## For Younger Learners (Ages 8–9)
 
-| Ages 8–9 | Ages 10–12 |
-|---|---|
-| Help them choose a simple, concrete friction point (e.g., "I forget to bring my lunch," "I can never find my shoes"). The 5 Whys may need to be limited to 3 Whys. The facilitator may need to co-facilitate the brainstorm. | Encourage more complex friction points. Full 5 Whys analysis. Have them map which curriculum tools apply to their chosen problem. |
+:::info Adapting This Week
+**Simplest version of the concept:** "Something keeps bugging you — happening over and over. This week, you figure out what it REALLY is and why it keeps happening."
+
+**What to shorten or skip:**
+- Focus on the Frustration Brainstorm and picking ONE friction point. These are accessible at any age.
+- For root cause analysis, use "3 Whys" instead of 5 — three levels deep is plenty for younger learners.
+- Skip the formal baseline tracking setup. Use a simple "How many times did it happen this week?" count instead.
+- Keep sessions to 20 minutes.
+
+**Adapting the activities:**
+- For the brainstorm, the facilitator can list while the learner talks. Prompt with concrete examples: "Do you ever forget something? Argue with someone? Run out of time?"
+- Draw the 3 Whys as a chain of arrows: "Problem → Why? → Why? → Why? → The REAL reason!"
+- Help the learner pick a friction point that's genuinely theirs — not something a parent is frustrated about.
+- The facilitator should model with their own friction point first: "My problem is I always lose my keys. Why? Because I put them in random places. Why? Because I'm in a rush..."
+
+**Journal alternative:** "Something that bugs me over and over is ___. I think it keeps happening because ___." Spoken is fine.
+
+**What success looks like:** The learner can name one recurring frustration and explain at least 2 levels of "why" it keeps happening.
+:::
+
+:::info For Ages 10–12
+- Full 5 Whys technique with written documentation.
+- Encourage the learner to identify whether the root cause is a decision problem, a habit problem, or an environment problem.
+- Begin baseline tracking with a simple data collection plan.
+- Challenge them to find a friction point where a decision-science concept (bias, EV, reversibility) is part of the root cause.
+:::
 
 ---
 
@@ -200,7 +223,7 @@ Example for "I'm always late to school":
 3. 6:45am — DECISION: What to wear (takes too long)
 4. 7:00am — DECISION: Whether to eat breakfast or skip it
 5. 7:15am — DECISION: Whether to pack my bag or assume it's ready
-6. 7:20am — REALISATION: Can't find my shoes → late!
+6. 7:20am — REALIZATION: Can't find my shoes → late!
 ```
 
 The student maps their own friction point:
@@ -266,6 +289,8 @@ Start tracking the problem THIS WEEK at its current state (before any changes):
 
 This "before" data will help you measure improvement later.
 
+**Minimum viable version (younger learners):** Pick your ONE friction point. Ask "Why does this keep happening?" two times (2 Whys). Draw the chain: "Problem → because → because → the REAL reason." Tell a grown-up what you found.
+
 ### Decision Journal
 
 > Document your friction point in full detail. What is it? Why does it keep happening? What are the root causes? Which decision points could you change? What do you predict will happen if you don't change anything vs. if you design a protocol?
@@ -278,10 +303,47 @@ This "before" data will help you measure improvement later.
 
 ---
 
-:::tip Simplify It (Ages 8–9)
+## Quick Mastery Check
+
+After this week, check whether the learner can:
+
+1. **Name their friction point:** "What recurring problem did you pick, and why?" (Looking for: a specific, concrete problem they experience regularly — not something vague.)
+2. **Dig to a root cause:** "You said your problem is ___. Why does that happen? And why does THAT happen?" (Looking for: at least 2 levels of "why" that move past the surface.)
+3. **Identify a fixable point:** "Where in the chain could you make a change?" (Looking for: a specific decision point or habit they could target in Week 16.)
+
+If the learner has a clearly defined friction point with at least one root cause identified, they're ready for protocol design in Week 16.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+After the 5 Whys or friction point selection, ask:
+
+> "When you dug into WHY your problem keeps happening, were you surprised? Did the root cause feel different from what you expected?"
+
+> "Sometimes the real reason a problem repeats isn't what it looks like on the surface. You might think 'I'm always late because I'm slow in the morning' — but the root cause might be 'I stay up too late because I can't stop watching videos.' Seeing the real cause can feel uncomfortable, because it means the fix might require changing something you enjoy."
+
+**This week's takeaway:** Solving a problem starts with being honest about what's actually causing it. That honesty takes courage — but it's the only way to fix the root, not just the symptom.
+:::
+
+---
+
+## Spiral Review
+
+:::tip Connecting to Earlier Weeks
+- **From Week 7:** "Is your friction point a sunk cost problem? 'I keep doing X because I already started' — even though X isn't working?"
+- **From Week 5:** "Could a bias be part of the root cause? Maybe availability bias makes you overweight a rare bad outcome, or anchoring keeps you stuck on a number."
+- **From Week 11:** "Is your friction point reversible or irreversible? That tells you how urgently you need to fix it."
+- **From Week 12:** "Does your friction point create ripples for other people? If so, fixing it helps more than just you."
+:::
+
+---
+
+:::tip Simplify (Ages 8–9)
 Help the child choose a simple, concrete friction point. Limit the 5 Whys to 3 Whys if needed. The facilitator may need to co-facilitate the brainstorm and help write the Problem Map.
 :::
 
-:::tip Extend It (Ages 10–12)
+:::tip Extend (Ages 10–12)
 Encourage more complex friction points that involve multiple decision points. Full 5 Whys analysis. Have them map which curriculum tools apply to their chosen problem — and explain why each tool is relevant.
 :::

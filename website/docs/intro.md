@@ -29,7 +29,7 @@ By the end of the course, students will maintain a **Decision Journal** document
 
 :::info For Caregivers and Teachers
 - You do not need to read the full site in order. Start here, then move into the current week you are teaching.
-- Each weekly page is designed to be skimmed quickly: review the caregiver snapshot, teach one session at a time, and come back later for the rest.
+- Each weekly page is designed to be skimmed quickly: review the facilitator snapshot, teach one session at a time, and come back later for the rest.
 - Use this page when you want the big-picture philosophy, not when you need minute-by-minute teaching directions.
 :::
 
@@ -45,22 +45,28 @@ Each week has **three sessions of roughly 30 minutes each**:
 
 1. **Guided Session 1** — You lead. A game or experiment introduces the week's concept.
 2. **Guided Session 2** — You lead. A deeper activity applies the concept to real-world situations.
-3. **Independent Practice** — Student-driven. Practice, observation, and a Decision Journal entry.
+3. **Independent Practice** — Student-driven. Practice, observation, and a Decision Journal entry. Independent practice sections include sentence starters, example answers, and a simplified option for younger learners — so facilitators don't need to scaffold on the fly.
 
 A comfortable pace is **two guided sessions plus one independent practice per week**. Some families do all three in one weekend; some spread them across the week. Both work.
 
 ### How Much Prep Do You Need?
 
-Minimal. Most activities use household items — coins, dice, cards, paper. Each weekly page includes a facilitator snapshot at the top so you can review the key ideas in under five minutes. There's no separate teacher's manual to study. The lesson page *is* the guide.
+Minimal. Most activities use household items — coins, dice, cards, paper. Each weekly page includes a facilitator snapshot at the top so you can review the key ideas in under five minutes. There's no separate teacher's manual to study. The lesson page *is* the guide. Each lesson also ends with a Quick Mastery Check, so you can tell whether the core idea landed without any additional preparation.
 
 ### Adapting for Different Ages
 
 This is **one curriculum with built-in differentiation**, not two separate tracks. Every weekly lesson includes tailored guidance:
 
-- **For Ages 8–9:** Focus on games, stories, and intuitive understanding. Math stays light — counting, comparing, simple fractions. The goal is to *feel* the concept before naming it.
+- **For Ages 8–9:** Focus on games, stories, and intuitive understanding. Math stays light — counting, comparing, simple fractions. The goal is to *feel* the concept before naming it. Every weekly lesson includes specific "For Younger Learners" guidance, oral and drawn responses are always acceptable alternatives to written work, and sentence starters are provided for journal entries. An 8-year-old has a fully supported path through every lesson.
 - **For Ages 10–12:** Push into deeper reasoning, more explicit math (percentages, expected value), and richer discussion. These learners can handle abstraction and benefit from it.
 
 An 8-year-old will engage with the games and intuitions, while a 12-year-old will dig into the reasoning and math. Both are learning the same core ideas — just at different depths.
+
+Each weekly lesson also includes:
+- A **Quick Mastery Check** — three quick questions so you can see whether the concept landed.
+- A **Pause and Notice** prompt — a short reflection on what values or emotions are at play in the decision.
+- **Spiral Review** — brief callbacks to earlier weeks, so concepts build on each other instead of being forgotten.
+- **Solo and small-group options** — so the curriculum works in classrooms, homeschool, tutoring, or one-on-one settings.
 
 You don't need to choose a track. Read the main lesson, then look for the age-specific guidance boxes within each week. In mixed-age groups, run the main activity together and use the age-specific prompts to adjust the depth of your questions and discussion for each learner.
 
@@ -181,7 +187,7 @@ Deepens the concept with a more structured activity. Students apply the idea, di
 
 ### Independent Practice (≈30 minutes)
 
-A student-driven session combining practice, real-world observation, and a **Decision Journal** entry. This is where ideas move from the lesson into the student's actual life.
+A student-driven session combining practice, real-world observation, and a **Decision Journal** entry. This is where ideas move from the lesson into the student's actual life. Each weekly page also includes a **"For Younger Learners (Ages 8–9)"** section with simplified prompts, oral/drawn response options, and sentence starters — so no additional scaffolding is needed.
 
 ---
 
@@ -225,14 +231,6 @@ Most activities use simple, accessible materials:
 
 No special software or expensive materials are required.
 
-### Who Is This For?
-
-This curriculum is designed for young learners **ages 8–12**, with adult guidance. The concepts scale naturally with the built-in age differentiation described [above](#adapting-for-different-ages).
-
-Use the sidebar to navigate through the lessons.
-
----
-
 ## The Goal
 
 By the end of 18 weeks, students will have internalized a fundamentally different relationship with decision-making. Specifically, they should be able to:
@@ -243,6 +241,7 @@ By the end of 18 weeks, students will have internalized a fundamentally differen
 - **See the hidden trade-off** — identify what they're giving up every time they choose something
 - **Know when to stop researching and start deciding** — recognize the point of diminishing returns on information
 - **Consider the system** — think about how their choices affect others and how others' choices affect them
+- **Notice when emotions are steering** — recognize when excitement, frustration, fear, or loyalty is influencing a decision, and factor that awareness into their process
 - **Build and improve their own decision systems** — design a protocol, test it against reality, and iterate
 - **Use a Decision Journal as a thinking tool** — not just a record, but a mirror that reveals patterns in their own reasoning
 

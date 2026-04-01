@@ -12,9 +12,20 @@ Most of the decisions in this course have been single-step: "Should I do X or Y?
 
 This is the tool of choice for strategists, doctors making treatment plans, and anyone facing a sequence of interconnected choices.
 
+:::warning Extension Week Readiness
+**Use this extension if:**
+- The learner has completed **at least Weeks 1–11** of the core curriculum (through Phase 3).
+- The learner showed strong engagement with **Week 9 (Expected Value)** — decision trees combine EV with multi-step branching.
+- The learner is comfortable with basic probability estimates and scoring outcomes.
+
+**Hold off if:**
+- The learner struggled with Week 9's expected value calculations.
+- The core 18-week curriculum hasn't been completed yet — finish the capstone first if possible.
+:::
+
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 - Decision trees are visual and hands-on — lots of drawing this week.
 - The concept of "working backwards" is especially powerful and applies far beyond decision trees.
 - This extension works best after the student has mastered Expected Value (Week 9).
@@ -22,13 +33,13 @@ This is the tool of choice for strategists, doctors making treatment plans, and 
 :::
 
 :::tip Quick Navigation
-- [Teacher Preparation](#teacher-preparation)
+- [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: The Decision Tree](#guided-session-1)
 - [Guided Session 2: Working Backwards](#guided-session-2)
-- [Independent Session](#independent-session)
+- [Independent Practice](#independent-practice)
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Large paper or poster board for drawing trees (they spread out!)
@@ -37,8 +48,41 @@ This is the tool of choice for strategists, doctors making treatment plans, and 
 - Review Expected Value (Week 9) — we combine EV with trees this week
 :::
 
-:::tip Teaching Mindset
+:::tip Facilitation Mindset
 Decision trees look complicated but they're just a series of what-if questions drawn out. Start very simple and build up. If the student gets overwhelmed, zoom in to just one branch at a time.
+:::
+
+---
+
+## For Younger Learners (Ages 8–9)
+
+:::info Adapting This Week
+**Simplest version of the concept:** "A decision tree is a map of 'what if?' — it shows you all the paths a choice could take and helps you pick the best one."
+
+**What to shorten or skip:**
+- Focus on the umbrella tree (Session 1, Activity 1) and the working-backwards goal planner (Session 2, Activity 4). These are the most accessible.
+- Skip formal backward induction calculations. Keep working-backwards intuitive: "Start at the end and walk back."
+- Skip the Counting Game proof — just play it for fun.
+- Use only 2 branches per decision (not 3+). Two is plenty.
+- Keep sessions to 20 minutes.
+
+**Adapting the activities:**
+- Draw the tree LARGE on poster paper. Use colors: green for "you choose" nodes, blue for "the world decides" nodes.
+- Let the learner assign scores using stars (⭐ to ⭐⭐⭐⭐⭐) rather than numbers 1–10.
+- Skip EV calculation for younger learners. Instead: "Which path has the most stars if things go normally?"
+- For working backwards: use a very concrete goal — "I want to bring cupcakes to school on Friday. What do we need to do on Thursday? Wednesday?"
+- The facilitator should draw while the learner dictates the branches.
+
+**Journal alternative:** "I drew a decision tree for ___. The best path was ___ because ___." Drawn is ideal.
+
+**What success looks like:** The learner can draw a simple 2-branch tree with outcomes, and explain "I'd pick this path because ___."
+:::
+
+:::info For Ages 10–12
+- Full decision trees with EV calculations, backward induction, and multi-step branching.
+- Challenge: build a 3+ step tree for a real decision in their life.
+- Discuss when trees are worth drawing vs. when intuition is enough.
+- Explore the Counting Game proof and find the pattern algebraically.
 :::
 
 ---
@@ -236,7 +280,7 @@ GOAL: Finish a big school project without stress (due Friday)
 
 ---
 
-## Independent Session
+## Independent Practice
 
 ### Goal
 
@@ -272,3 +316,40 @@ Pick a goal you want to achieve in the next month. Work backwards from the goal 
 - When is a decision tree overkill? When is it worth the effort to draw one?
 - Is it better to plan every step in advance, or to figure things out as you go? When does each approach work best?
 - Can you think of a game (board game, video game, or sport) where "working backwards" would help you win?
+
+---
+
+## Quick Mastery Check
+
+After this week, check whether the learner can:
+
+1. **Draw a basic tree:** "You can ride your bike or walk to the park. If you bike, there's a chance it rains (you get soaked) or stays sunny (you arrive fast). If you walk, rain means you use your umbrella, sun means a nice stroll. Draw the tree." (Looking for: correct decision node → chance nodes → outcomes structure.)
+2. **Calculate EV on a tree:** Given the tree above with probabilities and scores, can they multiply and add to find which branch wins? (Looking for: correct arithmetic and the right conclusion.)
+3. **Work backwards:** "You want to be ready for a camping trip on Saturday. What needs to happen by Friday? By Thursday? By Wednesday?" (Looking for: a backwards chain from the goal to today.)
+
+If the learner can draw a tree, calculate EV on it, and work backwards from a goal, they've mastered decision trees.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+After the decision tree or working-backwards activity, ask:
+
+> "When you drew all the possible paths, did it feel good to SEE the options laid out — or did it feel overwhelming? Sometimes seeing all the possibilities makes deciding feel harder."
+
+> "Decision trees are powerful, but they can also create a trap: the illusion that you can predict everything. Real life is messier than any tree. The goal isn't to map every possible future — it's to think through the MOST LIKELY branches and make a better first move."
+
+**This week's takeaway:** You don't need a perfect map to make a good decision. A rough sketch of the main branches is often enough. And working backwards from where you want to end up is one of the most powerful thinking tricks you'll ever learn.
+:::
+
+---
+
+## Spiral Review
+
+:::tip Connecting to Earlier Weeks
+- **From Week 9:** "Decision trees are Expected Value, expanded. Instead of one gamble, you chain multiple decisions and chance events together — and EV guides you at every branch."
+- **From Week 11:** "Reversibility matters on trees too. Two-way-door branches are easier to recover from, so you can be bolder. One-way-door branches deserve more careful scoring."
+- **From Week 12:** "Each branch of your tree creates ripples. The tree helps you SEE those ripples before they happen."
+- **From Week 3:** "Working backwards is calibration in reverse. Instead of 'How confident am I?', you ask 'What would need to be true?' and check whether it is."
+:::

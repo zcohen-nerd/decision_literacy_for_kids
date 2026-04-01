@@ -50,21 +50,38 @@ This cycle — Identify → Design → Test → Iterate — never truly ends. It
 :::
 
 :::tip Facilitation Mindset
-The content of the project matters less than the PROCESS the student went through. Whether their protocol was a stunning success or a flawed experiment, they've done something most adults never do: systematically analyzed a problem, designed a solution, tested it with real data, and iterated. That is extraordinary.
+Focus on the process, not whether the protocol worked perfectly. The student identified a real problem, tested a system, collected data, and iterated — that alone is worth celebrating.
 :::
 
-## Age Differentiation
+## For Younger Learners (Ages 8–9)
 
-:::info For Ages 8–9
-- The presentation can be a simple 3-minute show-and-tell conversation — no slides or poster required.
-- For the final journal entry, provide sentence starters: "The most important thing I learned is…" / "My brain's biggest shortcut is…"
-- Keep the celebration warm and low-pressure. The accomplishment is real regardless of how polished the presentation is.
+:::info Adapting This Week
+**Simplest version of the concept:** "You get to share what you discovered — like a real scientist presenting their findings!"
+
+**What to shorten or skip:**
+- Skip the formal presentation structure. This should feel like show-and-tell, not a TED talk.
+- Skip self-assessment rubrics. Use simple reflection questions instead.
+- Keep the celebration proportionally big — this is a real accomplishment.
+- Keep sessions to 20 minutes.
+
+**Adapting the presentation:**
+- The presentation can be as simple as: "My question was ___. I tried ___. I found out ___. The coolest thing I learned was ___."
+- Add one simple patch step: "Next time, I would change ___." This keeps the iteration part of the project visible.
+- Props are encouraged: hold up the tracking chart, show the Decision Poster from Week 15, act out the experiment.
+- Drawing and oral presentation count fully. No written report required.
+- If the learner is shy about presenting, they can present just to the facilitator, a family member, or even a stuffed animal — it's the structured reflection that matters.
+- The facilitator should be an enthusiastic audience.
+
+**Journal alternative:** "The most important thing I learned in this whole course is ___. One thing I'll do differently now when I make decisions is ___." Spoken is fine.
+
+**What success looks like:** The learner shares their experiment results in any format and can name at least one decision-making skill they'll keep using.
 :::
 
 :::info For Ages 10–12
-- Encourage a structured 5–7 minute presentation covering problem, protocol, data, and lessons learned.
-- The final journal entry should be detailed and reflective — push for specifics rather than generalities.
-- Ask follow-up questions that connect their project to earlier curriculum concepts (biases, EV, opportunity cost).
+- Full structured presentation with introduction, hypothesis, method, results, and conclusion.
+- Written or digital self-assessment reflecting on their growth over the 18 weeks.
+- Peer feedback (if multiple students) or facilitator Q&A.
+- Discuss: "How has your thinking about decisions changed since Week 1?"
 :::
 
 ---
@@ -74,7 +91,7 @@ The content of the project matters less than the PROCESS the student went throug
 #### Learning Goal
 By the end of this session, the student can:
 
-- analyse their full experiment data and draw conclusions
+- analyze their full experiment data and draw conclusions
 - write specific "patch notes" for protocol improvements
 - explain what they would do differently in version 2.0
 
@@ -162,7 +179,7 @@ Return to the foundational idea from Week 2:
 | Did I dig into the root cause (not just the surface)? | |
 | Did I design a specific, testable protocol? | |
 | Did I collect honest data? | |
-| Did I analyse the data and draw conclusions? | |
+| Did I analyze the data and draw conclusions? | |
 | Did I iterate based on evidence? | |
 
 > "If you checked most of these boxes, your process was excellent — regardless of whether the protocol 'solved' the problem perfectly. Remember: a good process with a bad outcome (Week 2) is still a good process."
@@ -200,6 +217,8 @@ Format can be:
 - A verbal walkthrough with the data sheet
 - A digital slide deck (if the student prefers)
 
+**Simplified presentation option (younger learners):** The learner answers 4 questions with the facilitator's help: (1) "What was my question?" (2) "What did I do?" (3) "What happened?" (4) "What did I learn?" They can draw, speak, or act it out. Take a photo of their work to mark the occasion.
+
 ---
 
 **2. Present!**
@@ -228,7 +247,7 @@ Optional: Create a simple "certificate of completion" or award.
 
 ---
 
-## Independent Session
+## Independent Practice
 
 ### Goal
 
@@ -288,6 +307,53 @@ Examples:
 - Do you think you'll keep using your Decision Journal? Why or why not?
 - What's the next friction point you'd like to optimize?
 - In 5 years, which lesson from this course do you think will matter the most?
+
+---
+
+## Quick Mastery Check
+
+This is the final check for the entire curriculum. After the presentation and reflections, confirm:
+
+1. **Core concept retention:** "Name 3 big ideas from this course." (Looking for any 3 — biases, expected value, reversibility, ripple effects, signal vs. noise, game theory, etc.)
+2. **Personal framework:** "What's your process for making a tough decision now?" (Looking for: a multi-step approach that draws on course concepts — even a simple 3-step verbal checklist counts.)
+3. **Transfer to life:** "Can you tell me about a real decision you made differently because of something you learned here?" (Looking for: ANY real example, no matter how small — "I stopped to think about who my choice affected" or "I checked if I was making a sunk cost mistake.")
+4. **Growth mindset:** "What's something you used to think about decisions that you've changed your mind about?" (Looking for: evidence of intellectual growth — "I used to think gut feelings were bad" or "I didn't know I had biases.")
+
+If the learner can show concept retention, a personal framework, one real-world application, and self-awareness about growth — they've completed the course successfully. Celebrate.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+This is the final Pause and Notice for the course. Make it count.
+
+> "Think back to Week 1 — when we first talked about all the decisions you make in a day. How do you feel now compared to then? More confident? More thoughtful? More aware?"
+
+> "You've learned tools that most adults don't know. Expected value, cognitive biases, game theory, signal vs. noise — these are powerful ideas. But the most important thing you've learned isn't any single tool. It's the HABIT of pausing before a decision and thinking: 'How should I approach this?'"
+
+**Course takeaway:** You are a decision-maker. Every day, dozens of times a day. And now you have a toolkit to make those decisions more carefully, more wisely, and more aligned with what you actually care about. That's worth celebrating.
+:::
+
+---
+
+## Spiral Review
+
+:::tip Looking Back at the Whole Course
+Use this as a facilitated conversation or a written reflection:
+
+**Phase 1 — Probability & The Physics of Choice (Weeks 1–4):** "What are the building blocks? Decisions are everywhere. Outcomes vs. luck. Prediction and calibration. Hindsight bias."
+
+**Phase 2 — Debugging the Hardware (Weeks 5–8):** "Your brain takes shortcuts. Some help, some don't. Anchoring, loss aversion, sunk costs, framing, and bias awareness."
+
+**Phase 3 — Data & Signal Processing (Weeks 9–11):** "Expected value, signal vs. noise, and reversible vs. irreversible choices help you think more clearly under uncertainty."
+
+**Phase 4 — Game Theory & Social Systems (Weeks 12–14):** "Your choices create ripples. Cooperation, trust, and shared systems change what the best move looks like."
+
+**Phase 5 — The Optimization Project (Weeks 15–18):** "Build your own framework. Design an experiment. Analyze the data. Patch the plan. Present what you learned."
+
+Ask: "Which phase was your favorite? Which idea surprised you the most? Which tool will you use the most going forward?"
+:::
 
 ---
 

@@ -55,12 +55,23 @@ Frame heuristics as a feature, not a bug. Our brains evolved these shortcuts bec
 If time is tight or the learner is ages 8–9, cover only Anchoring and Availability in Session 2 this week. Save Representativeness for Session 1 of Week 6 as a 10-minute warm-up before the Trading Game.
 :::
 
-## Age Differentiation
+## For Younger Learners (Ages 8–9)
 
-:::info For Ages 8–9
-- Focus on anchoring and availability only — save representativeness for a review day or the Week 6 warm-up.
-- Use the quick-fire puzzles and Stroop test to make fast brain vs. slow brain concrete and fun.
-- Keep the Shortcut Poster activity as the main takeaway.
+:::info Adapting This Week
+**Simplest version of the concept:** "Your brain has a fast mode that guesses answers without really thinking. Sometimes the guess is wrong."
+
+**What to shorten or skip:**
+- Cover only **Anchoring** and **Availability** this week. Save Representativeness for a warm-up review at the start of Week 6.
+- Focus on the Quick-Fire Round puzzles (the bat-and-ball problem alone is worth the whole session) and the Stroop test.
+- Keep sessions to 20 minutes.
+
+**Adapting the activities:**
+- For the Shortcut Poster, let the learner draw pictures instead of writing definitions. A drawing of a sticky number (anchoring) and a scary shark (availability) is perfect.
+- For the Shortcut Spotter worksheet, do 2–3 scenarios together orally instead of all 5 in writing.
+
+**Journal alternative:** "This week I noticed my fast brain doing ___." Spoken or drawn is fine.
+
+**What success looks like:** The learner can describe "fast brain vs. slow brain" in their own words and give one example of when fast brain gets tricked.
 :::
 
 :::info For Ages 10–12
@@ -220,9 +231,17 @@ For each scenario below, write which shortcut is involved and why:
 4. You see that a game has 4.9 stars from 10,000 reviews. Another game has 5 stars from 3 reviews. Which feels more impressive? → ________
 5. Your friend tells you their math test was "impossible" before you take it. You feel nervous even though you studied. → ________
 
+**Minimum viable version (younger learners):** Do scenarios 1, 2, and 5 out loud together. For each, just ask: "Is this anchoring or availability?" and discuss the answer. Skip the written worksheet.
+
+**Sentence starters for written responses:** "This is ___ (anchoring / availability) because ___."
+
 **2. Real-Life Shortcut Hunt**
 
 Over the next three days, try to catch ONE real example of each shortcut happening to you or someone around you. Write them down.
+
+:::note Solo/Small-Group Fallback
+This activity works great for a single learner. You can also turn it into a family challenge — who can spot the most shortcuts in one week?
+:::
 
 ### Decision Journal
 
@@ -236,10 +255,48 @@ Over the next three days, try to catch ONE real example of each shortcut happeni
 
 ---
 
-:::tip Simplify This Week
+## Quick Mastery Check
+
+After this week, check whether the learner can:
+
+1. **Name the two modes:** "What's the difference between fast brain and slow brain?" (Looking for: fast brain is automatic and quick; slow brain is careful and takes effort.)
+2. **Spot anchoring:** "A jacket says 'Was $80, now $30.' Why does that feel like a deal?" (Looking for: "Because the $80 sticks in your head" or "the first number changes what feels normal.")
+3. **Spot availability:** "After watching a movie about sharks, do you think shark attacks are more common or less common than they actually are?" (Looking for: "More common — because you just saw it" or "because it's easy to picture.")
+
+If the learner can explain fast brain vs. slow brain and identify one shortcut, they're ready for Week 6.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+After the Fast Brain vs. Slow Brain session, ask:
+
+> "When your fast brain gave you the wrong answer on the bat-and-ball puzzle, how did that feel? Embarrassing? Funny? Annoying?"
+
+> "Can you think of a time when a strong feeling — like being excited about something or scared of something — made your fast brain take over?"
+
+Brain shortcuts aren't just logic errors — they're often powered by emotions. Fear makes the availability bias stronger (scary things feel more common). Excitement can make us jump to conclusions before slow brain has a chance to check. Noticing the emotion behind the shortcut is half the battle.
+
+**This week's takeaway:** Your fast brain isn't broken — it just needs a co-pilot. That co-pilot is slow brain, and YOU get to decide when to call it in.
+:::
+
+---
+
+## Spiral Review
+
+:::tip Connecting to Earlier Weeks
+- **From Week 1:** "Remember how you couldn't predict coin flips? Your brain's availability shortcut might make you THINK you can — if you happened to get a few right in a row."
+- **From Week 2:** "Fast brain often judges decisions by outcomes (resulting!). Slow brain is what lets you evaluate the process separately."
+- **From Week 4:** "Hindsight bias is actually a fast-brain shortcut too. Now you know the whole family of tricks your brain plays."
+:::
+
+---
+
+:::tip Simplify (Ages 8–9)
 If three heuristics feel like too much, cover only anchoring and availability this week. The anchoring demo and shark-vs.-coconut question are self-contained and memorable. Representativeness can become a 10-minute warm-up at the start of Week 6.
 :::
 
-:::tip Extend for Older Learners
+:::tip Extend (Ages 10–12)
 Ask learners to research one cognitive bias not covered this week (e.g., confirmation bias, sunk cost fallacy) and present a two-minute explanation to the family. Alternatively, have them redesign the Shortcut Spotter Worksheet with original scenarios drawn from their own life.
 :::

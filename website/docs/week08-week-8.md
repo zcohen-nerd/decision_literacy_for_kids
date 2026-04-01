@@ -28,7 +28,7 @@ By the end of this week, students should feel a satisfying "click" of recognitio
 - [Guided Session 1: The Ad Decoder](#guided-session-1)
 - [Guided Session 2: The Influence Map](#guided-session-2)
 - [Independent Practice](#independent-practice)
-- [Age Differentiation](#age-differentiation)
+- [For Younger Learners](#for-younger-learners-ages-89)
 :::
 
 ## Week at a Glance
@@ -56,13 +56,32 @@ By the end of this week, students should feel a satisfying "click" of recognitio
 This week is about transferring knowledge from the classroom to the real world. The more real examples you and the student can find, the deeper the learning sticks. Keep it light and game-like.
 :::
 
-## Age Differentiation
+## For Younger Learners (Ages 8–9)
 
-| Ages 8–9 | Ages 10–12 |
-|---|---|
-| The Ad Decoder activity is great and hands-on. Focus on spotting biases in 3–4 examples rather than all 9. | Cover all 9 biases in the toolkit review. Push toward analysing social media and advertising critically. |
-| The Bias Bingo card is fun but may need simpler categories — combine or reduce squares to a 2×2 or 3×3 with fewer concepts. | Have them create their own influence map with detailed annotations. |
-| Keep the Influence Map visual and simple — draw it together with crayons or markers. | Challenge students to find bias triggers in their own social media feeds or favourite YouTube channels. |
+:::info Adapting This Week
+**Simplest version of the concept:** "Now you know your brain's tricks. This week, we go looking for them in real life — like a treasure hunt!"
+
+**What to shorten or skip:**
+- Reduce the Bias Toolkit Review to 4–5 core biases (anchoring, availability, loss aversion, sunk cost, scarcity) instead of all 9.
+- For the Ad Decoder, do 3–4 examples together as a conversation rather than a full workshop.
+- Reduce the Bias Bingo card to a 2×2 (4 squares) with the four most recognizable biases.
+- Keep sessions to 20 minutes.
+
+**Adapting the activities:**
+- For the Influence Map, draw it together using crayons or markers. Focus on 2–3 sources of influence closest to the learner's life (apps, ads, friends).
+- Make the Ad Decoder very concrete: show one ad and ask "What trick is this using?"
+
+**Journal alternative:** "A brain trick I spotted this week was ___ in ___." Spoken is fine.
+
+**What success looks like:** The learner spots at least one bias in a real ad, app notification, or conversation during the week — and can name which trick it is.
+:::
+
+:::info For Ages 10–12
+- Cover all 9 biases and challenge the student to find examples of each within 48 hours.
+- Have them create a "Bias Field Guide" — a mini reference card they can carry and share.
+- Analyze a real social media feed or YouTube recommendation page for bias triggers.
+- Write a persuasive ad that intentionally uses 3+ biases, then write a "bias-aware" rebuttal.
+:::
 
 ---
 
@@ -71,7 +90,7 @@ This week is about transferring knowledge from the classroom to the real world. 
 #### Learning Goal
 By the end of this session, the student can:
 
-- analyse an advertisement or notification and identify which bias it targets
+- analyze an advertisement or notification and identify which bias it targets
 - explain how the bias is being used to influence behavior
 - suggest what a "bias-aware" response would be
 
@@ -183,7 +202,7 @@ For each, ask:
 
 Draw a simple map of the student's daily "influence landscape":
 
-Put the student in the centre. Around them, draw circles for each source of influence:
+Put the student in the center. Around them, draw circles for each source of influence:
 
 - Apps and games
 - Ads (TV, online, in stores)
@@ -207,7 +226,7 @@ Look back at Weeks 5–8 together:
 
 > "You now know that your brain has shortcuts that usually help but sometimes mislead. You know about anchoring, availability, representativeness, loss aversion, framing, sunk costs, and the endowment effect. That's an incredible toolkit. Most adults can't name even half of these!"
 
-Celebrate: These are real tools that professional decision-makers, psychologists, and behavioural economists use.
+Celebrate: These are real tools that professional decision-makers, psychologists, and behavioral economists use.
 
 ---
 
@@ -233,6 +252,10 @@ Over the next 3–5 days, try to find a real example for each square. Write the 
 
 Goal: Complete the whole card (blackout bingo)!
 
+**Simplified version (younger learners):** Use a 2×2 card with just 4 biases: Anchoring, Loss Aversion, Scarcity, Social Proof. Finding one example for each square is a win.
+
+**Sentence starter for the Safari Report:** "I found ___ (bias name) at ___ (where). It was trying to make me feel ___ so I would ___."
+
 **2. Bias Safari Report**
 
 Pick your 3 most interesting findings from the bingo card. For each one, write:
@@ -256,27 +279,54 @@ Pick your 3 most interesting findings from the bingo card. For each one, write:
 - Is it possible to be completely bias-free? Why or why not?
 - Now that you know about these biases, do you think you'll actually make different choices? What makes change hard?
 
+> **Family-friendly note:** The Independent Practice (Bias Bingo) works solo but benefits greatly from being discussed with a family member. Encourage the student to "recruit" a bias-hunting partner at home.
+
+:::note Solo/Small-Group Fallback
+**If the learner is working alone:** The Bias Bingo and Safari Report activities are fully solo-friendly. The learner hunts for biases independently and reports findings to the facilitator during a brief check-in.
+
+**For the guided sessions:** The Ad Decoder and Influence Map work perfectly with one learner and one adult. No group needed — the adult plays the discussion partner role.
+:::
+
 ---
 
-## Simplify / Extend
+## Quick Mastery Check
 
-:::tip Simplify (Ages 8–9)
-- Reduce the Bias Bingo card to a 2×2 with four core biases (anchoring, loss aversion, scarcity, social proof).
-- Do the Ad Decoder together as a guided conversation rather than a worksheet.
-- For the Influence Map, focus on just 2–3 sources of influence closest to the student's daily life.
+After this week, check whether the learner can:
+
+1. **Name at least 3 biases:** "Can you name three brain shortcuts we've learned?" (Looking for any three from the toolkit.)
+2. **Decode a real example:** Show an ad or notification (e.g., "Only 2 left!") and ask: "What bias is this using?" (Looking for: "scarcity" / "loss aversion" or similar.)
+3. **Explain the antidote:** "Once you notice a bias trick in an ad, what should you do?" (Looking for: "Pause and ask if I actually want it" / "Check if my brain is just reacting" or similar.)
+
+If the learner can name 3 biases and decode one real-world example, Phase 2 is complete.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+After the Ad Decoder or Influence Map session, ask:
+
+> "When an ad uses loss aversion — 'Don't miss out!' — what emotion does it create? Can you feel the urgency in your body?"
+
+> "Is it wrong that ads use these tricks? Or is it just important that YOU know about them?"
+
+This week is about empowerment, not paranoia. Knowing about bias doesn't mean distrusting everything. It means being able to pause and ask: "Am I choosing this because I want it, or because a trick is pushing me?" That pause is the whole skill.
+
+**This week's takeaway:** You can't stop the world from using brain tricks. But you can decide which ones you fall for and which ones you see through.
 :::
 
-:::tip Extend (Ages 10–12)
-- Cover all 9 biases and challenge the student to find examples of each within 48 hours.
-- Have them create a "Bias Field Guide" — a mini reference card they can carry and share.
-- Analyse a real social media feed or YouTube recommendation page for bias triggers.
-- Write a persuasive ad that intentionally uses 3+ biases, then write a "bias-aware" rebuttal.
-:::
+---
 
-> **Family-friendly note:** The Independent Practice (Bias Bingo) works solo but benefits greatly from being discussed with a family member. Encourage the student to "recruit" a bias-hunting partner at home.
+## Spiral Review
+
+:::tip Connecting to Earlier Weeks
+- **From Week 2:** "When you spot a bias in an ad, you're separating process from outcome. The ad wants you to judge by outcome ('You'll love it!'). You're checking the process ('Am I being manipulated?')."
+- **From Week 4:** "Your Decision Journal is a bias shield. Writing down WHY you want something before buying it protects you from impulse-driven mistakes."
+- **From Week 5–7:** "This week ties together everything from Phase 2: anchoring, availability, loss aversion, sunk costs, framing — the complete brain bug toolkit."
+:::
 
 ---
 
 :::info Phase 2 → Phase 3 Transition
-Congratulations — you have completed **Phase 2: Brain Shortcuts**! The student now has a powerful toolkit of 9 cognitive biases they can name and spot in the wild. In **Phase 3**, we shift from *recognising* biases to *building decision frameworks* — structured ways to make better choices even when biases are pulling at us.
+Congratulations — you have completed **Phase 2: Brain Shortcuts**! The student now has a powerful toolkit of 9 cognitive biases they can name and spot in the wild. In **Phase 3**, we shift from *recognizing* biases to *building decision frameworks* — structured ways to make better choices even when biases are pulling at us.
 :::

@@ -52,12 +52,23 @@ We also meet our first named cognitive bias: **hindsight bias** — the "I knew 
 The journal should feel like a **thinking companion**, not homework. If it starts feeling like a chore, it is too complicated. Simplify ruthlessly. Even one sentence of reasoning before a decision is infinitely better than nothing.
 :::
 
-## Age Differentiation
+## For Younger Learners (Ages 8–9)
 
-:::info For Ages 8–9
-- Use a simpler journal template with sentence starters: "I chose ___ because ___."
-- Focus on two fields: "What I chose" and "What happened."
-- Keep confidence ratings as Low / Medium / High rather than percentages.
+:::info Adapting This Week
+**Simplest version of the concept:** "Your brain tricks you into thinking you always knew what was going to happen. Writing things down BEFORE they happen stops the trick."
+
+**What to shorten or skip:**
+- Use a simplified 3-field journal template: "What I chose," "Why I chose it," and "What happened." Skip confidence levels and numbered predictions for now.
+- For the hindsight activity, use a very simple story or a familiar movie with a twist ending.
+- Keep sessions to 20 minutes.
+
+**Adapting the journal:**
+- The journal can be a simple notebook with sentence starters glued or written on the first page.
+- Sentence starters: "I chose ___ because ___." and "I was (very sure / pretty sure / not sure)."
+- Oral entries dictated to the facilitator count. Drawings count. Short answers count.
+- Confidence ratings can stay as Low / Medium / High rather than percentages.
+
+**What success looks like:** The learner makes one journal entry this week without needing heavy prompting, and can say in their own words why writing things down BEFORE helps.
 :::
 
 :::info For Ages 10–12
@@ -222,6 +233,8 @@ If not already done, set up the permanent Decision Journal:
 - Copy the template onto the first page or inside front cover for quick reference
 - Number the pages (optional but helpful for looking back later)
 
+**Quick-start version (younger learners):** A simple notebook with the 3-field template ("What I chose / Why / What happened") written or taped on the inside cover is enough. Don't worry about numbering pages or creating a complex system — keeping it simple makes it more likely to get used.
+
 **2. Hindsight Spotter**
 
 Think about the past week. Find two moments where you (or someone else) said something like:
@@ -238,6 +251,8 @@ Make your first "official" full entry using the complete template:
 
 > Choose a real decision you're facing this week — something where you genuinely don't know how it will turn out. Fill in fields 1-5 now. Leave fields 6-7 blank for next week.
 
+**Younger learner version:** Use the 3-field template instead. Tell a grown-up: "I'm deciding ___. I chose ___ because ___. I think ___ will happen." The facilitator writes it down. Come back next week to fill in what actually happened.
+
 ### Reflection Questions
 
 - Why is it so hard to remember what we actually thought before we learned the answer?
@@ -246,12 +261,50 @@ Make your first "official" full entry using the complete template:
 
 ---
 
+## Quick Mastery Check
+
+After this week, check whether the learner can:
+
+1. **Explain the journal's purpose:** "Why do we write down what we think BEFORE we see what happens?" (Looking for: "So we can't trick ourselves" / "So we remember what we really thought" / "Because our brain changes the memory.")
+2. **Name the bias:** "What is hindsight bias?" (Looking for: "Thinking you knew something all along" or "Your brain rewriting history.")
+3. **Make a real entry:** The learner completes one full Decision Journal entry (at their level) about a real upcoming choice.
+
+If the learner can do #1 and #3, they've completed Phase 1's foundation successfully.
+
+---
+
 *This week completes **Phase 1: Foundations**. You now have the core toolkit — randomness, process vs. outcome thinking, probability, and the Decision Journal. Starting in Week 5, we build on these foundations to explore the mental shortcuts (biases and heuristics) that shape every decision we make.*
 
-:::tip Simplify This Week
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+After the Hindsight Trap session, ask:
+
+> "When you found out the end of the story, did it feel obvious? Did you feel silly for not guessing it?"
+
+> "Has anyone ever said 'I told you so' to you? How did that feel? Were they being fair?"
+
+Hindsight bias isn't just a thinking error — it can make us feel bad about ourselves ("I should have known!") or unfair to others ("They should have seen that coming!"). Recognizing hindsight bias helps us be kinder to ourselves and to other people when things don't go as expected.
+
+**This week's takeaway:** "I should have known" is almost never fair — to yourself or to anyone else.
+:::
+
+---
+
+## Spiral Review
+
+:::tip Connecting to Earlier Weeks
+- **From Week 1:** "Remember how you couldn't predict the coin flips? Hindsight bias is your brain pretending you COULD have predicted them — after seeing the result."
+- **From Week 2:** "The 2×2 grid helps here too. When you look back at a journal entry and the outcome seems 'obvious,' check: were you actually in the Good Process box or just rewriting history?"
+- **From Week 3:** "This is why confidence ratings matter. Writing '60% sure' BEFORE the result is your shield against hindsight bias."
+:::
+
+:::tip Simplify (Ages 8–9)
 If the full seven-field journal template feels like too much, start with just three fields: "What I chose," "Why I chose it," and "What happened." Build up to the full template over the next few weeks as the habit takes hold.
 :::
 
-:::tip Extend for Older Learners
+:::tip Extend (Ages 10–12)
 Have learners review all their journal entries from Weeks 1–3, score their predictions for accuracy, and calculate a simple calibration rate. Challenge them to write a "Letter to Future Me" explaining their reasoning on a current decision, to be opened in four weeks.
 :::

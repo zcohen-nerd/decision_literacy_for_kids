@@ -57,11 +57,33 @@ Resist the urge to "fix" the first round. Let the commons collapse. The emotiona
 If Round 1 doesn't collapse (cautious players may cooperate naturally), that's a valuable discussion too. Ask why it worked, then play a "maximum catch" round where each player's goal is to maximize their personal haul regardless of the group.
 :::
 
-## Age Differentiation
+## For Younger Learners (Ages 8–9)
 
-| Ages 8–9 | Ages 10–12 |
-|---|---|
-| The Fishing Game is physical and fun — lean into it. Use smaller numbers (10 fish instead of 20) and fewer rounds. Focus on the surprise when the pond collapses. | Run full multi-round simulations. Discuss real-world commons problems (oceans, air quality, shared spaces). Have them design rules and compare effectiveness. |
+:::info Adapting This Week
+**Simplest version of the concept:** "When everyone shares something, each person has to decide: 'Do I take a lot for me, or leave some for everyone?' If everyone takes a lot, there's nothing left."
+
+**What to shorten or skip:**
+- Focus on the Fishing Game — it's the centerpiece and works at any age.
+- Skip the formal Tragedy of the Commons terminology. Use "The Sharing Problem" instead.
+- Keep the real-world examples simple: shared snacks, shared crayons, the last piece of pizza.
+- Keep sessions to 20 minutes.
+
+**Adapting the activities:**
+- For the Fishing Game, use physical tokens (goldfish crackers, coins, small blocks). Start with 10 tokens in a bowl. Each round, each player takes 1–3, then the pool "grows back" by adding half of what's left (rounded down). If the bowl empties, the game is over.
+- Even with one learner + facilitator, this works well as a 2-player game.
+- Skip the spreadsheet/graphing version. The physical tokens tell the story.
+
+**Journal alternative:** "In the Fishing Game, the fish ran out when ___. We could have kept them going if ___." Spoken is fine.
+
+**What success looks like:** The learner can explain "If everyone takes too much, there's none left for anyone" and suggest a rule that would help.
+:::
+
+:::info For Ages 10–12
+- Full simulation with tracking, graphing the fish population over rounds.
+- Discuss real-world commons: climate change, overfishing, shared bandwidth, public parks.
+- Have students design and test their own rules for sustaining the commons.
+- Introduce the concept of enforcement: "Rules only work if people follow them — what makes people follow them?"
+:::
 
 ---
 
@@ -96,6 +118,12 @@ By the end of this session, the student can:
 - If 4 players each take 5 fish (20 total), the pond drops to 0. **Game over.**
 
 > **Diminishing returns:** As more fish are taken from the pond, the remaining fish yield less and less — this is diminishing returns at the group level. A pond with 4 fish left can only double to 8, while a pond with 12 left doubles to 20. Every extra fish taken reduces the pond's ability to recover.
+
+:::note Solo/Small-Group Fallback
+**If only 2 players (learner + facilitator):** The Fishing Game works great with 2. Each round, each player secretly writes how many fish to take (1–3), then reveal simultaneously. Add half the remaining fish back each round.
+
+**If truly solo:** Run a simulation against imaginary players. "Round 1: You take 2 fish. Two imaginary players each take 3. There were 20 fish. How many are left? How many grow back?" The learner tracks the population on paper and discovers when it collapses.
+:::
 
 ---
 
@@ -252,6 +280,8 @@ For each one:
 - What solution is currently in place (if any)?
 - What solution would you recommend?
 
+**Minimum viable version (younger learners):** Pick one shared resource at home (like a bag of chips or shared screen time). Watch what happens for 2 days. Ask: "Is anyone taking more than their share? Did it run out faster?" Tell a grown-up what you noticed.
+
 **2. Design a Fair Rule**
 
 Pick one commons problem from your list. Design a simple rule that could help:
@@ -273,8 +303,44 @@ Pick one commons problem from your list. Design a simple rule that could help:
 
 ---
 
-## Tips for Simplifying or Extending
+## Quick Mastery Check
 
+After this week, check whether the learner can:
+
+1. **Identify a commons:** "What do you share at home or school that could run out if people aren't careful?" (Looking for: any shared resource — snacks, art supplies, hot water, Wi-Fi bandwidth, clean common spaces.)
+2. **Explain the dilemma:** "In the Fishing Game, why is it tempting to take a lot of fish even though everyone would be better off taking less?" (Looking for: "Because if I take less but others don't, I lose out" or "I want more for myself.")
+3. **Propose a solution:** "If you were in charge of the fishing pond, what rule would you make?" (Looking for: limits per person, communication/agreements, taking turns, monitoring.)
+
+If the learner can explain why shared resources get overused AND suggest a rule to prevent it, they've grasped the core lesson.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+After the Fishing Game, ask:
+
+> "When you saw someone else take a lot of fish, what did you feel? Did it make you want to take more too — like 'I'd better grab mine before it's gone'? Or did it make you frustrated?"
+
+> "The urge to take more when you see others taking more is completely natural. It's a mix of fairness instinct ('Why should they get more than me?') and fear ('There might not be enough'). Recognizing that feeling is the first step to choosing differently."
+
+This week is really about the tension between self-interest and community. There's no single "right" answer — but being aware of the tension helps you make choices you're proud of.
+
+**This week's takeaway:** You can't control what everyone else does. But you CAN decide what kind of community member you want to be — and sometimes that inspires others to follow.
+:::
+
+---
+
+## Spiral Review
+
+:::tip Connecting to Earlier Weeks
+- **From Week 13:** "The Fishing Game is a multiplayer Prisoner's Dilemma. Each person faces the same cooperate-or-defect choice — but now with shared consequences."
+- **From Week 12:** "Every fish you take creates ripples. Taking too many now means less for everyone later — including future you."
+- **From Week 9:** "You can calculate expected value on your fish-taking strategy. But the EV changes based on what everyone else does — that's what makes commons problems so tricky."
+- **From Week 6:** "Loss aversion makes you grab MORE when the pool is shrinking — 'Take it now before it's gone!' That instinct accelerates the tragedy."
+:::
+
+---
 :::tip Simplify (Ages 8–9)
 - Use 10 fish instead of 20, and play fewer rounds — the collapse happens faster and is easier to grasp.
 - Focus on the physical, hands-on experience of the Fishing Game rather than the math.

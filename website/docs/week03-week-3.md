@@ -54,12 +54,23 @@ Kids tend to think in absolutes: "it will rain" or "it won't rain." This week ge
 The magic moment is when a student voluntarily says something like "I think so, but I'm only like 60% sure." That's probabilistic thinking in action.
 :::
 
-## Age Differentiation
+## For Younger Learners (Ages 8–9)
 
-:::info For Ages 8–9
-- Use a simple three-point scale: very sure / pretty sure / not sure.
-- Focus on counting and frequency language ("out of 10 tries…") rather than percentages.
-- Keep the die experiment hands-on; let them physically tally results.
+:::info Adapting This Week
+**Simplest version of the concept:** "Instead of saying 'definitely' or 'no way,' we say 'pretty sure' or 'not sure.'" That's probabilistic thinking in kid-sized language.
+
+**What to shorten or skip:**
+- Skip the Calibration Challenge in Session 2. Focus on the Confidence Scale and "Rate These Predictions" activities.
+- Use a three-point scale only: **Very Sure / Pretty Sure / Not Sure.** Skip percentages entirely.
+- Limit to 20-minute sessions, and use only 4–5 prediction statements instead of all 8.
+
+**Adapting the activities:**
+- For the Die Experiment, let them physically tally with stickers or checkmarks rather than writing numbers.
+- Focus on counting language: "out of 10 tries..." rather than fractions or percentages.
+
+**Journal alternative:** "This week I predicted ___ and I was (very sure / pretty sure / not sure)." Spoken or drawn is fine.
+
+**What success looks like:** The learner pauses before answering a prediction question and says something like "I think so, but I'm not sure" instead of "definitely" or "no way." That hesitation IS the skill.
 :::
 
 :::info For Ages 10–12
@@ -216,6 +227,8 @@ Examples:
 - "I predict I will finish my book this week. Confidence: 40%. I still have a lot of pages left."
 - "I predict it will be warm enough to play outside at least 3 days. Confidence: 75%. The weather has been good lately."
 
+**Minimum viable version (younger learners):** Make just 2 predictions, using "very sure / pretty sure / not sure" instead of numbers. Say them out loud — a grown-up can write them down.
+
 **2. Journal Review**
 
 Look at your Week 2 journal entry:
@@ -238,16 +251,55 @@ New entry:
 >
 > **My Choice:** Which one am I going with, and why?
 
+**Younger learner version:** Answer just two questions out loud: "What am I deciding?" and "How sure am I?" Use the three-word scale: very sure / pretty sure / not sure.
+
 ### Reflection Questions
 
 - What's the difference between being "sure" and being "pretty sure"?
 - Is it okay to make a decision when you're only 60% confident? When would you want to be more sure?
 - Can you think of a time someone said they were "100% sure" about something and turned out to be wrong?
 
-:::tip Simplify This Week
+---
+
+## Quick Mastery Check
+
+After this week, check whether the learner can:
+
+1. **Use the confidence scale:** "How sure are you that it will be sunny tomorrow?" (Looking for: any answer on the scale — "pretty sure" or "maybe 70%" — rather than a flat "yes" or "no".)
+2. **Explain the idea:** "Why is saying 'I'm pretty sure' better than saying 'definitely'?" (Looking for: "Because you might be wrong" or "Because most things aren't 100%.")
+3. **Apply to a prediction:** "Predict something that will happen this week and rate your confidence." (Looking for: a prediction with any confidence rating attached.)
+
+If the learner uses uncertainty language naturally in at least one answer, they're ready for Week 4.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+After the Confidence Meter activity, ask:
+
+> "Is it hard to say 'I'm not sure'? Does it feel like admitting you're wrong?"
+
+> "Think about a time you felt really strongly about something — super excited or really scared. Did that strong feeling make you more sure than you should have been?"
+
+Strong emotions can make us feel 100% certain even when we shouldn't be. Excitement makes things feel like a sure thing. Fear makes bad outcomes feel guaranteed. Noticing the feeling helps you give a more honest confidence rating.
+
+**This week's takeaway:** Being honest about uncertainty isn't weakness — it takes courage to say "I'm not sure" when everyone else seems certain.
+:::
+
+---
+
+## Spiral Review
+
+:::tip Connecting to Earlier Weeks
+- **From Week 1:** "Remember the coin flip? Your prediction was right about half the time. That's a 50% confidence — right in the middle! Now you have words for that feeling."
+- **From Week 2:** "If you say you're 90% confident about a prediction and it doesn't work out, is that a bad decision? (No — the 10% just happened. That's process vs. outcome!)"
+:::
+
+:::tip Simplify (Ages 8–9)
 If percentages feel overwhelming, stick to a three-word scale: very sure, pretty sure, not sure. The goal is the habit of pausing to rate confidence, not the precision of the number. You can always add percentages later.
 :::
 
-:::tip Extend for Older Learners
+:::tip Extend (Ages 10–12)
 Challenge well-calibrated learners with a 10-question calibration quiz and track their accuracy over time. Introduce the idea that professional forecasters practice calibration as a measurable skill — and that they can too.
 :::

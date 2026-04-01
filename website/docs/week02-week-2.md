@@ -54,12 +54,23 @@ This idea will feel counterintuitive at first. Kids (and adults) naturally judge
 Be patient. Use lots of examples. The goal is not instant mastery — it's planting a seed that grows over the remaining 16 weeks.
 :::
 
-## Age Differentiation
+## For Younger Learners (Ages 8–9)
 
-:::info For Ages 8–9
-- Focus on the stories and the 2×2 grid with simple, relatable examples.
+:::info Adapting This Week
+**Simplest version of the concept:** "A good choice is about good thinking, not just a good result." If the learner understands that one sentence by the end of the week, the week is a success.
+
+**What to shorten or skip:**
+- Focus on just the Umbrella Problem and 2–3 scenarios for the 2×2 grid. Skip the full set of 8 scenario cards.
 - Use thumbs-up / thumbs-down voting to sort scenarios — keep it physical and fun.
-- Don't worry about precise language; "good thinking vs. bad thinking" is fine at this age.
+- Keep sessions to 20 minutes.
+
+**Adapting language:**
+- Say "good thinking vs. bad thinking" instead of "good process vs. bad process" if "process" feels abstract.
+- For the 2×2 grid, label the rows "Smart Thinking" and "Sloppy Thinking" if that's clearer.
+
+**Journal alternative:** The learner can point to a box on the 2×2 grid and say "My choice went here because ___." The facilitator writes it down.
+
+**What success looks like:** The learner can look at a bad result and say something like "but the thinking was still good" — or recognize when a lucky outcome came from sloppy thinking.
 :::
 
 :::info For Ages 10–12
@@ -198,6 +209,13 @@ Think about your past week. Try to find one example for each box in the 2x2 grid
 
 (It's okay if you can't fill every box — some weeks are like that.)
 
+**Sentence starters:**
+- "A time I made a good choice and it worked: ___"
+- "A time I made a good choice and it didn't work: ___"
+- "A time I got lucky: ___"
+
+**Minimum viable version (younger learners):** Find just ONE example from the past week and place it on the 2×2 grid. Tell a grown-up which box it goes in and why.
+
 ### Decision Journal
 
 New entry for this week:
@@ -212,6 +230,8 @@ New entry for this week:
 >
 > **My Confidence:** How sure are you? (Pick a number from 1-10)
 
+**Younger learner version:** Pick just two fields — "What I chose" and "Why" — and answer them out loud or with a drawing. The facilitator writes it down.
+
 ### Reflection Questions
 
 - Can you think of a time an adult told you something was a "bad decision" just because it didn't work out?
@@ -220,10 +240,38 @@ New entry for this week:
 
 ---
 
-:::tip Simplify This Week
+## Quick Mastery Check
+
+After this week, check whether the learner can:
+
+1. **Sort one scenario:** "You didn't study but got an A on the test. Good thinking or bad thinking?" (Looking for: "Bad thinking, lucky result" or equivalent.)
+2. **Explain the key idea:** "Can a good decision have a bad result?" (Looking for: "Yes — because of luck or things you can't control.")
+3. **Apply to their own life:** "Can you think of a time you made a good choice but it didn't work out?" (Any reasonable real example shows understanding.)
+
+If the learner can do 2 of these, they're ready for Week 3.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+After the 2×2 grid activity, ask:
+
+> "How does it feel when you make a really smart choice and it still doesn't work out? Does it feel unfair?"
+
+> "What about when you know you got lucky — does it feel weird to admit that?"
+
+Noticing these feelings matters because they affect future decisions. If a good choice leads to a bad result and you feel discouraged, you might stop making good choices. If a sloppy choice gets lucky and feels great, you might keep being sloppy. Recognizing the emotion helps you stick with good thinking even when the results are frustrating.
+
+**This week's takeaway:** Feelings about results are real and valid — but they shouldn't change how you evaluate your thinking process.
+:::
+
+---
+
+:::tip Simplify (Ages 8–9)
 If the learner is younger or struggling, skip the scenario cards and focus on just the Umbrella Problem and the 2×2 grid with two or three familiar examples. The single takeaway — "a good choice can still have a bad result" — is plenty for one week.
 :::
 
-:::tip Extend for Older Learners
+:::tip Extend (Ages 10–12)
 Ask ages 10–12 to keep a "resulting log" for three days: every time they catch someone (including themselves) judging a decision by its outcome alone, they write it down. Discuss the entries together. You can also ask: "Can a doctor make the right call and the patient still not get better? Does that mean the doctor was wrong?"
 :::

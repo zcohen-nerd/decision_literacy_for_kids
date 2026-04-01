@@ -50,18 +50,32 @@ This week we take the Problem Map from Week 15 and build a **Decision Protocol**
 The best protocols feel almost too simple. That's the point. A protocol needs to work when you're tired, rushed, or not thinking clearly. Complexity is the enemy of follow-through.
 :::
 
-## Age Differentiation
+## For Younger Learners (Ages 8–9)
 
-:::info For Ages 8–9
-- Keep the protocol very simple: one trigger, one action, one check. More steps will overwhelm.
-- Simplify the pre-mortem to a single question: "What might go wrong?"
-- The facilitator may need to help write the protocol card — focus on the learner's IDEAS, not their writing speed.
+:::info Adapting This Week
+**Simplest version of the concept:** "You're making a plan for your friction point — like a recipe that tells you exactly what to do when the problem shows up."
+
+**What to shorten or skip:**
+- Focus on the Protocol Template with just 2 parts: "When ___ happens, I will ___." Skip the formal "check" component.
+- Skip the pre-mortem and stress-test formalities. Just ask: "What could go wrong with this plan?"
+- Keep the protocol to 1–2 steps maximum. Simpler = more likely to stick.
+- Keep sessions to 20 minutes.
+
+**Adapting the activities:**
+- Use an index card to write the protocol. One card = one protocol. Tape it somewhere visible (bathroom mirror, inside of backpack flap, on the fridge).
+- Model with a real example: "My friction point is losing my keys. My protocol: When I walk in the door, I put my keys in the bowl. That's it!"
+- Let the learner pick their trigger and action with guidance. The facilitator can suggest options: "When you feel like arguing with your sister over the TV, you could: (a) flip a coin, (b) set a timer to take turns, (c) ask a parent. Which would YOU actually do?"
+
+**Journal alternative:** "My protocol: When ___ happens, I will ___." Draw a picture of yourself doing it. Spoken is fine.
+
+**What success looks like:** The learner has ONE clear "When ___, I will ___" plan written down and posted somewhere they'll see it.
 :::
 
 :::info For Ages 10–12
-- Encourage a fuller protocol with multiple triggers, backup plans, and 2–3 edge cases.
-- Run the full pre-mortem exercise — older learners can think through failure modes in detail.
-- Push them to stress-test their own protocol before the facilitator does.
+- Full protocol with trigger, default action, and check/review built in.
+- Run the stress-test: brainstorm 3–5 scenarios where the protocol might fail and design fallbacks.
+- Conduct a pre-mortem: "Imagine it's next week and your protocol failed. What went wrong?"
+- Write Protocol v1.0 as a formal document they'll test in Week 17.
 :::
 
 ---
@@ -270,11 +284,11 @@ Write the final version of the protocol neatly. This is version 1.0 — it WILL 
 
 ---
 
-## Independent Session
+## Independent Practice
 
 ### Goal
 
-Finalise the protocol and prepare for the testing phase.
+Finalize the protocol and prepare for the testing phase.
 
 ### Activities
 
@@ -294,6 +308,8 @@ Design how you'll collect data next week:
 - How will you record it? (Tally marks? A daily rating? A simple tracker?)
 - How often will you check in?
 
+**Minimum viable version (younger learners):** Write your protocol on an index card: "When ___, I will ___." Put it where you'll see it every day. Try to follow it for 3 days. Each night, mark a check (✓) if you followed it or an X if you didn't. No judgement — just honest tracking.
+
 ### Decision Journal
 
 > Write the full protocol in your journal (trigger, default action, check, edge cases). Then make a prediction: On a scale of 1-10, how confident are you that this protocol will work? What probability do you give it? What's the most likely thing to go wrong?
@@ -303,3 +319,40 @@ Design how you'll collect data next week:
 - Why is a protocol more powerful than just "trying harder"?
 - What's the difference between a protocol and a rule someone else gives you?
 - If you could install one automatic protocol in your brain right now (like an app update), what would it be?
+
+---
+
+## Quick Mastery Check
+
+After this week, check whether the learner can:
+
+1. **Name the three parts:** "What are the parts of your protocol?" (Looking for: a trigger, an action, and ideally a check — or at minimum "When ___ happens, I will ___.")
+2. **Explain why it helps:** "Why is a pre-made plan better than just trying harder?" (Looking for: "Because in the moment I won't be thinking clearly" or "Because I already decided what to do.")
+3. **Anticipate failure:** "What could go wrong with your protocol?" (Looking for: at least one realistic scenario — "I might forget" or "I might be too tired to follow it.")
+
+If the learner has a protocol with a clear trigger and action, and can identify at least one way it might fail, they're ready to test it in Week 17.
+
+---
+
+## Pause and Notice
+
+:::note What Matters Here
+After the protocol design session, ask:
+
+> "How does it feel to have a PLAN for your friction point? Does it feel empowering — or does it feel like another rule you have to follow?"
+
+> "A protocol you design for yourself is different from a rule someone else gives you. YOU chose it. YOU know why it matters. That ownership is what makes it work. If it doesn't feel right, change it — it's YOUR protocol."
+
+**This week's takeaway:** The best protocol is one simple enough to follow on your worst day. Don't aim for perfect — aim for doable.
+:::
+
+---
+
+## Spiral Review
+
+:::tip Connecting to Earlier Weeks
+- **From Week 7:** "The walk-away point from Week 7 was your first protocol! 'When I've spent $X, I stop.' Now you're building a more complete version for a different problem."
+- **From Week 11:** "Is your protocol for a two-way or one-way door? Two-way door protocols can be more experimental — try it, and if it doesn't work, change it easily."
+- **From Week 5:** "Your protocol should guard against the biases you've learned about. If your friction point involves impulsive decisions, build in a delay: 'Wait 5 minutes before deciding.'"
+- **From Week 15:** "The root cause you found last week is the TARGET. Your protocol is the TOOL. Make sure the protocol actually addresses the root cause, not just the surface symptom."
+:::
